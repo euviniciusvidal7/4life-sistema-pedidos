@@ -1,0 +1,23 @@
+[
+    {
+        "id": "683d84a60a317",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-06-02 11:01:58"
+    },
+    {
+        "id": "683db37f27144",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-06-02 14:21:51"
+    },
+    {
+        "id": "683db678ca87f",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Ligou-me e n\u00e3o est\u00e1 interessada.",
+        "timestamp": "2025-06-02 14:34:32"
+    }
+]

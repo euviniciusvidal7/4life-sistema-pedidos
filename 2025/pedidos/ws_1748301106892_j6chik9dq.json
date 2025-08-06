@@ -1,0 +1,40 @@
+{
+    "session_id": "ws_1748301106892_j6chik9dq",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-26 23:11:45",
+    "criado_em": 1748301105,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "NOME": "Enviar",
+    "ultima_atualizacao": "2025-05-26 23:28:07",
+    "CONTATO": "917443904",
+    "PROBLEMA_RELATADO": "Tenho 86 anos",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "Mas nao vou estar ca.",
+        "No final de Junho lig",
+        "Muito obrigada"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Mas nao vou estar ca.",
+            "resposta": "Pagamento apenas na entrega! Garantia de satisfa\u00e7\u00e3o. Deseja prosseguir?",
+            "timestamp": "2025-05-26T23:26:55.413Z"
+        },
+        {
+            "pergunta": "No final de Junho lig",
+            "resposta": "Chamarei no final de Junho. RenovaGold: colag\u00e9nio marinho 150% mais potente, vitamina C, resultados em 7-14 dias. Garantia e pagamento na entrega.",
+            "timestamp": "2025-05-26T23:27:33.718Z"
+        },
+        {
+            "pergunta": "Muito obrigada",
+            "resposta": "De nada! Quer prosseguir com o tratamento? \ud83c\udf1f",
+            "timestamp": "2025-05-26T23:28:09.506Z"
+        }
+    ]
+}

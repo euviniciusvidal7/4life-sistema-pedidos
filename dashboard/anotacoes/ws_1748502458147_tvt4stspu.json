@@ -1,0 +1,16 @@
+[
+    {
+        "id": "68382f8e20f29",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Disse que est\u00e1 indo fazer uma consulta, depois vai contactar",
+        "timestamp": "2025-05-29 09:57:34"
+    },
+    {
+        "id": "6838668752802",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o podia falar.",
+        "timestamp": "2025-05-29 13:52:07"
+    }
+]

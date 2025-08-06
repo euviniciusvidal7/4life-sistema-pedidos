@@ -1,0 +1,41 @@
+{
+    "session_id": "ws_1749586368180_9api7p6p3",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-10 20:12:50",
+    "criado_em": 1749586370,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "step": 5,
+    "ultima_atualizacao": "2025-06-10 21:08:06",
+    "NOME": "DULCINEA SOARES DE MATTOS Silva",
+    "CONTATO": "351- 928242731",
+    "PROBLEMA_RELATADO": "P\u00e9s de galinha  bigode chin\u00eas express\u00e3o da testa p\u00e1lpebras ca\u00eddas",
+    "PERGUNTAS_FEITAS": [
+        "Pe\u00e7o desculpas por n\u00e3o  poder pedir  agora  obrigado e boa noite.",
+        "Grata ..",
+        "Obrigado."
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Pe\u00e7o desculpas por n\u00e3o  poder pedir  agora  obrigado e boa noite.",
+            "resposta": "Compreendo perfeitamente, minha querida.\n\nN\u00e3o h\u00e1 motivo para preocupa\u00e7\u00f5es. O RenovaGold estar\u00e1 dispon\u00edvel quando for mais conveniente para si.\n\nSe tiver alguma d\u00favida sobre os benef\u00edcios do nosso tratamento para a firmeza e rejuvenescimento da pele, ficarei \u00e0 disposi\u00e7\u00e3o para esclarec\u00ea-la.\n\nDesejo-lhe uma boa noite e estamos \u00e0 sua disposi\u00e7\u00e3o quando desejar iniciar o seu tratamento.\n\nCom os melhores cumprimentos,\nDr. Bruno Celso"
+        },
+        {
+            "pergunta": "Grata ..",
+            "resposta": "De nada, minha querida. \u00c9 sempre um prazer poder ajudar.\n\nFique tranquila e, quando for o momento certo, estaremos aqui para si.\n\nTenha uma boa noite."
+        },
+        {
+            "pergunta": "Obrigado.",
+            "resposta": "De nada. Boa noite e at\u00e9 uma pr\u00f3xima oportunidade."
+        }
+    ]
+}

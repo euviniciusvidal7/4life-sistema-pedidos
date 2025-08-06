@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751705189398_uglit5t10",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-05 08:46:33",
+    "criado_em": 1751705193,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-05 08:56:01",
+    "NOME": "Emilia",
+    "CONTATO": "962 682 688",
+    "PROBLEMA_RELATADO": "P\u00e9s de galinha codigo de barras"
+}

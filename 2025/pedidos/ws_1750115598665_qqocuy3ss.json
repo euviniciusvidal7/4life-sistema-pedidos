@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1750115598665_qqocuy3ss",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-16 23:13:23",
+    "criado_em": 1750115603,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-16 23:22:12",
+    "NOME": "Meu nome \u00e9 Carolina.",
+    "CONTATO": "938437330",
+    "PROBLEMA_RELATADO": "Flacidez e rugas."
+}

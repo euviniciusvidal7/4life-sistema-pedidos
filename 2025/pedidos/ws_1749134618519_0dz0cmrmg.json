@@ -1,0 +1,20 @@
+{
+    "NOME": "Maria Benta",
+    "CONTATO": "9144 757 11",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua Infantes de Sagres, n\u00ba 162, 1\u00ba Direito C\n\ud83c\udfd8\ufe0f Lagos\n\ud83d\udcee 8600-743 Lagos",
+    "PROBLEMA_RELATADO": "Todas as rugas que come\u00e7aram a aparecer ao longo do tempo e agora com 58, para velha o que me entristece muito",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-05 14:43:40",
+    "criado_em": 1749134620,
+    "atualizado_em": 1749136305,
+    "session_id": "ws_1749134618519_0dz0cmrmg",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-05 15:11:45",
+    "id_trello": "6841b3b1b31ec132d88c3354",
+    "status_trello": "PRONTO PARA ENVIO"
+}

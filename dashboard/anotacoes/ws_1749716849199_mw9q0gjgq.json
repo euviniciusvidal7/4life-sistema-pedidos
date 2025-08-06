@@ -1,0 +1,16 @@
+[
+    {
+        "id": "684aa18e5cfa0",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "contactar daqui h\u00e1 1 hora!",
+        "timestamp": "2025-06-12 09:44:46"
+    },
+    {
+        "id": "684ad07c37a26",
+        "usuario_id": 13,
+        "usuario_nome": "jo",
+        "comentario": "Tentei o contacto agora sem sucesso.",
+        "timestamp": "2025-06-12 13:05:00"
+    }
+]

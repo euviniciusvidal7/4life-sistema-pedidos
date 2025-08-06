@@ -1,0 +1,17 @@
+{
+    "session_id": "ws_1750862188503_p8shiqee4",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-25 14:36:32",
+    "criado_em": 1750862192,
+    "Rec": true,
+    "etapa_atual": "coleta_problema",
+    "marcos_progresso": [
+        "nome",
+        "telefone"
+    ],
+    "step": 2,
+    "ultima_atualizacao": "2025-06-25 14:37:10",
+    "NOME": "vidal",
+    "CONTATO": "21 996656272"
+}

@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1750632687277_chz9ee7uv",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-22 22:51:28",
+    "criado_em": 1750632688,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-22 22:52:53",
+    "NOME": "Vidal",
+    "CONTATO": "21 996656272",
+    "PROBLEMA_RELATADO": "Tenho muitos p\u00e9s de galinha"
+}

@@ -1,0 +1,17 @@
+{
+    "NOME": "Eliana",
+    "ENDERE\u00c7O": "Rua Principal 336, 3465-155",
+    "CONTATO": "939061850",
+    "PROBLEMA_RELATADO": "As rugas",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "18\/07\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-07-18 20:51:19",
+    "criado_em": 1752871879
+}

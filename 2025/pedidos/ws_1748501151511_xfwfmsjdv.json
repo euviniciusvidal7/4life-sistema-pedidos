@@ -1,0 +1,17 @@
+{
+    "session_id": "ws_1748501151511_xfwfmsjdv",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-05-29 06:45:52",
+    "criado_em": 1748501152,
+    "Rec": true,
+    "etapa_atual": "coleta_problema",
+    "marcos_progresso": [
+        "nome",
+        "telefone"
+    ],
+    "step": 2,
+    "ultima_atualizacao": "2025-05-29 06:46:29",
+    "NOME": "Bom dia Dr.Bruno Celso! Eu tenho garantia de que esse medicamento \u00e9 mesmo bom e vai tratar a minha pele e deix\u00e1-la com apar\u00eancia de uma pessoa jovem e permanente?",
+    "CONTATO": "Neusa"
+}

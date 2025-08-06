@@ -1,0 +1,141 @@
+:root {
+  --primary-color: #568C1C;
+  --secondary-color: #2C3E50;
+  --bg-light: #f8f9fa;
+  --text-dark: #333;
+  --text-light: #fff;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: var(--bg-light);
+}
+
+.sidebar {
+  background-color: var(--secondary-color);
+  color: var(--text-light);
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 1000;
+  transition: all 0.3s;
+}
+
+.sidebar .logo {
+  padding: 20px;
+  text-align: center;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.sidebar .nav-item {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+.sidebar .nav-item:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+.sidebar .nav-item i {
+  margin-right: 15px;
+}
+
+.sidebar .nav-item.active {
+  background-color: var(--primary-color);
+}
+
+.content-wrapper {
+  margin-left: 250px;
+  padding: 20px;
+}
+
+.header {
+  background-color: white;
+  padding: 15px 20px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  margin-bottom: 20px;
+  border: none;
+}
+
+.card-header {
+  background-color: white;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  padding: 15px 20px;
+  font-weight: 600;
+}
+
+.status-badge {
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.status-novo { background-color: #fff3cd; color: #856404; }
+.status-transito { background-color: #cce5ff; color: #004085; }
+.status-entregue { background-color: #d4edda; color: #155724; }
+.status-devolvido { background-color: #f8d7da; color: #721c24; }
+
+.data-card {
+  background: linear-gradient(135deg, var(--primary-color), #81c14b);
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  transition: all 0.3s;
+  height: 100%;
+}
+
+.data-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+}
+
+.data-number {
+  font-size: 36px;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.data-label {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.9;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: #477618;
+  border-color: #477618;
+}
+
+.table-container {
+  overflow-x: auto;
+}
+
+.dashboard-table th {
+  font-weight: 600;
+  background-color: rgba(0,0,0,0.02);
+  border-bottom: 2px solid rgba(0,0,0,0.05);
+}
+
+.dashboard-table td {
+  vertical-align: middle;
+}

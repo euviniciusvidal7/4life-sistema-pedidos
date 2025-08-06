@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751661496420_se1g7qomo",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-04 20:38:19",
+    "criado_em": 1751661499,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-04 20:40:14",
+    "NOME": "Dina",
+    "CONTATO": "918 363 951",
+    "PROBLEMA_RELATADO": "Flacidez bigode chin\u00eas e papos na zona da ma\u00e7\u00e3 do rosto"
+}

@@ -1,0 +1,15 @@
+{
+    "session_id": "ws_1752706238439_6ckcl4blq",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-16 22:50:40",
+    "criado_em": 1752706240,
+    "Rec": true,
+    "etapa_atual": "coleta_telefone",
+    "marcos_progresso": [
+        "nome"
+    ],
+    "step": 1,
+    "ultima_atualizacao": "2025-07-16 22:51:30",
+    "NOME": "Vidal"
+}

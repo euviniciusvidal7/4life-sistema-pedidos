@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751583123133_pjmfmtdrg",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-03 22:52:04",
+    "criado_em": 1751583124,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-03 22:54:06",
+    "NOME": "Em\u00edlia Martins",
+    "CONTATO": "935654097",
+    "PROBLEMA_RELATADO": "Tenho 65 anos e estou s ficar fl\u00e1cida no rosto"
+}

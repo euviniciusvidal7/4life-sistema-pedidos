@@ -1,0 +1,23 @@
+[
+    {
+        "id": "68383001e3aef",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Contactar novamente",
+        "timestamp": "2025-05-29 09:59:29"
+    },
+    {
+        "id": "683831e8d25dd",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-05-29 10:07:36"
+    },
+    {
+        "id": "68385ae268cba",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "N\u00e3o est\u00e1 interessada!",
+        "timestamp": "2025-05-29 13:02:26"
+    }
+]

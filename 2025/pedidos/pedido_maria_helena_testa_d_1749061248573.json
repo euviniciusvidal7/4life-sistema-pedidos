@@ -1,0 +1,17 @@
+{
+    "NOME": "maria helena testa de plutonio (DESCONTO)",
+    "ENDERE\u00c7O": "1234, 1234-123",
+    "CONTATO": "+55 11 tes",
+    "PROBLEMA_RELATADO": "ruga",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (68\u20ac - DESCONTO ESPECIAL)",
+    "DATA": "04\/06\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": true,
+    "VALOR_FINAL": 68,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-06-04 18:20:49",
+    "criado_em": 1749061249
+}

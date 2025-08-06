@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1749321558254_9iq3sb130",
+    "origem": "facebook",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-07 18:39:19",
+    "criado_em": 1749321559,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-07 18:42:35",
+    "NOME": "N\u00e9lia",
+    "CONTATO": "915053277",
+    "PROBLEMA_RELATADO": "Quero me manter jovem ..."
+}

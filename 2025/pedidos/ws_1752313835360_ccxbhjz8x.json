@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752313835360_ccxbhjz8x",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-12 09:50:40",
+    "criado_em": 1752313840,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "026d2bfa-cac9-4405-8c2f-3c405a62dc7d",
+    "step": 3,
+    "NOME": "Ana",
+    "ultima_atualizacao": "2025-07-12 09:53:47",
+    "CONTATO": "914 987 609",
+    "PROBLEMA_RELATADO": "Estou a ficar com muitas rugas na testa  onormal de uma mulher de 56 anos. Mes.o hidratanto a pele e beber muita agua."
+}

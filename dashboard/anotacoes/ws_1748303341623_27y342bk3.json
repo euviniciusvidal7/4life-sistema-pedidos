@@ -1,0 +1,23 @@
+[
+    {
+        "id": "6835c45b0bdb4",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei, disse que ia pensar!",
+        "timestamp": "2025-05-27 13:55:39"
+    },
+    {
+        "id": "6836d9c1731e2",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-05-28 09:39:13"
+    },
+    {
+        "id": "6836db96d0653",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Devolveu a chamada e n\u00e3o est\u00e1 interessada de momento. Ligar final de agosto.",
+        "timestamp": "2025-05-28 09:47:02"
+    }
+]

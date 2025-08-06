@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1751990028257_vayjo8lto",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-08 15:53:52",
+    "criado_em": 1751990032,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "17813db6-2240-465a-914f-1e3299af02b4",
+    "step": 3,
+    "NOME": "Maria do C\u00e9u",
+    "ultima_atualizacao": "2025-07-08 15:55:42",
+    "CONTATO": "968922550",
+    "PROBLEMA_RELATADO": "A zona da boca e l\u00e1bio superior"
+}

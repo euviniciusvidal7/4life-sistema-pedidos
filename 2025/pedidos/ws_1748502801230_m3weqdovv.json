@@ -1,0 +1,18 @@
+{
+    "NOME": "Maria",
+    "CONTATO": "322fasfafsafs",
+    "ENDERE\u00c7O": "frsafasf",
+    "PROBLEMA_RELATADO": "asasfasfa",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-05-29 07:13:20",
+    "criado_em": 1748502800,
+    "atualizado_em": 1748571405,
+    "session_id": "ws_1748502801230_m3weqdovv",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-05-30 02:16:45"
+}

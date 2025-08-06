@@ -1,0 +1,20 @@
+{
+    "NOME": "Rosa alves",
+    "CONTATO": "+55 123 123",
+    "ENDERE\u00c7O": "1234-213",
+    "PROBLEMA_RELATADO": "",
+    "tratamento": "1 M\u00eas",
+    "origem": "facebook",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-05-30 14:56:16",
+    "criado_em": 1748616976,
+    "atualizado_em": 1748625432,
+    "session_id": "ws_1748616973173_zif8opgwy",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-05-30 17:17:12",
+    "id_trello": "6839e8183844ac74ae5cb22f",
+    "status_trello": "PRONTO PARA ENVIO"
+}

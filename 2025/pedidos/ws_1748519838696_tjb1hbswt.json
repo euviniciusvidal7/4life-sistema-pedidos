@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1748519838696_tjb1hbswt",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-05-29 11:57:20",
+    "criado_em": 1748519840,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-05-29 11:58:55",
+    "NOME": "Lucia",
+    "CONTATO": "926783653",
+    "PROBLEMA_RELATADO": "Flacidez, rugas vincadas"
+}

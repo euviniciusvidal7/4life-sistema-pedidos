@@ -1,0 +1,20 @@
+{
+    "NOME": "Catarina Martins",
+    "CONTATO": "965 474 058",
+    "ENDERE\u00c7O": "\ud83d\udccd Largo 25 de Abril, n\u00ba 1\n\ud83d\udcee Foros de Salvaterra \u2013 Salvaterra de Magos, 2120-181",
+    "PROBLEMA_RELATADO": "",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-12 09:06:49",
+    "criado_em": 1752311209,
+    "atualizado_em": 1752322365,
+    "session_id": "ws_1752311204813_u782cxsap",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-12 12:12:45",
+    "id_trello": "6872513cde9ea85462672870",
+    "status_trello": "PRONTO PARA ENVIO"
+}

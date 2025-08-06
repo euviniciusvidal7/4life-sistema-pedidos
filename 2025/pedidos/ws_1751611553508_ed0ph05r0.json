@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751611553508_ed0ph05r0",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-04 06:45:56",
+    "criado_em": 1751611556,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-04 06:49:26",
+    "NOME": "Leonor",
+    "CONTATO": "926191303",
+    "PROBLEMA_RELATADO": "A minha pele envelheceu muito. Tenho manchas escuras e a pele est\u00e1 sem brilho"
+}

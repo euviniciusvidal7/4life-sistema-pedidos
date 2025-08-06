@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1748504732335_v4foxm77l",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-05-29 07:45:33",
+    "criado_em": 1748504733,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-05-29 07:49:00",
+    "NOME": "Fatima",
+    "CONTATO": "Qual o valor do pruduto",
+    "PROBLEMA_RELATADO": "Gosraria de saber o valor do creme pois era para oferecar"
+}

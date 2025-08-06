@@ -1,0 +1,20 @@
+{
+    "NOME": "Paula Pereira",
+    "CONTATO": "917 117 619 ",
+    "ENDERE\u00c7O": "\ud83d\udccd Travessa Padre Am\u00e9rico, n\u00ba 51\n\ud83d\udcee 4440-201 Campo, Valongo",
+    "PROBLEMA_RELATADO": "Tudo",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-07 08:58:05",
+    "criado_em": 1749286685,
+    "atualizado_em": 1749478182,
+    "session_id": "ws_1749286684838_drzj8dls9",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-09 14:09:42",
+    "id_trello": "6846eb2697c2dfe34c201530",
+    "status_trello": "PRONTO PARA ENVIO"
+}

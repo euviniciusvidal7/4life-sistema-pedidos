@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1750631107421_kozwsvl8w",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-22 22:25:09",
+    "criado_em": 1750631109,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-22 22:25:47",
+    "NOME": "vidal",
+    "CONTATO": "21 996656272",
+    "PROBLEMA_RELATADO": "s\u00e3o as rugas"
+}

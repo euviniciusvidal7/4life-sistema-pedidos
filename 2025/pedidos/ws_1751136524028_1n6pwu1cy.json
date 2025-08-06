@@ -1,0 +1,17 @@
+{
+    "session_id": "ws_1751136524028_1n6pwu1cy",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-28 18:48:45",
+    "criado_em": 1751136525,
+    "Rec": true,
+    "etapa_atual": "coleta_problema",
+    "marcos_progresso": [
+        "nome",
+        "telefone"
+    ],
+    "step": 2,
+    "ultima_atualizacao": "2025-06-28 18:49:21",
+    "NOME": "rojerio",
+    "CONTATO": "22 986657282"
+}

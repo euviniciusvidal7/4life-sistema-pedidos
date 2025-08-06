@@ -1,0 +1,48 @@
+{
+    "session_id": "ws_1748042867681_g4l16bvzh",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-23 23:27:45",
+    "criado_em": 1748042865,
+    "Rec": false,
+    "etapa_atual": "confirmar_endereco",
+    "NOME": "Ok estou de acordo",
+    "ultima_atualizacao": "2025-05-23 23:39:32",
+    "CONTATO": "915 499 492",
+    "PROBLEMA_RELATADO": "Algumas rugas um pouco mais acentuadas do naziz para baixo ..bigode chines \u00e0 volta da boca e no rosto ...tudo isto porque passei por um processo oncol\u00f3gico tiroide..e tive um emagrecimento choque",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "1 mes",
+        "Sim",
+        "Ok obrigado..qq duvida entro em contacto",
+        "Obrigado"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "1 mes",
+            "resposta": "O tratamento de 1 m\u00eas com **RenovaGold** \u00e9 a melhor op\u00e7\u00e3o para come\u00e7ar a transformar a sua pele! Com **colag\u00e9nio marinho 150% mais potente** e **Vitamina C** para maximizar a absor\u00e7\u00e3o, vai notar resultados vis\u00edveis em **7-14 dias** \u2013 firmeza, elasticidade e redu\u00e7\u00e3o de rugas e flacidez. O pre\u00e7o \u00e9 **74,98\u20ac** e s\u00f3 paga na entrega. Garantia de satisfa\u00e7\u00e3o: se n\u00e3o estiver convencido, devolvemos o dinheiro.  \n\nDeseja prosseguir com o tratamento? \ud83c\udf1f",
+            "timestamp": "2025-05-23T23:35:58.770Z"
+        },
+        {
+            "pergunta": "Ok obrigado..qq duvida entro em contacto",
+            "resposta": "Fico feliz em saber que voc\u00ea est\u00e1 satisfeito! \ud83d\ude0a Se tiver qualquer d\u00favida sobre o uso do RenovaGold, sobre os resultados, ou precisar de orienta\u00e7\u00f5es adicionais, \u00e9 s\u00f3 me chamar. Estou aqui para garantir que voc\u00ea obtenha o melhor resultado poss\u00edvel com o tratamento.  \n\nLembre-se: o RenovaGold \u00e9 um tratamento suave, com col\u00e1geno marinho 150% mais potente e vitamina C para potencializar os efeitos. Os resultados come\u00e7am a aparecer em 7-14 dias, mas s\u00e3o progressivos. Se precisar de ajuda, \u00e9 s\u00f3 enviar uma mensagem.  \n\nAgrade\u00e7o a confian\u00e7a e desejo que o produto traga todos os benef\u00edcios que voc\u00ea espera! \ud83c\udf1f  \nAtenciosamente,  \nDr. Bruno Celso",
+            "timestamp": "2025-05-23T23:38:44.683Z",
+            "tipo": "pos_venda"
+        },
+        {
+            "pergunta": "Obrigado",
+            "resposta": "Ol\u00e1! Muito obrigado por sua mensagem e por confiar no RenovaGold! \ud83c\udf1f Estou aqui para ajudar voc\u00ea com qualquer d\u00favida que possa surgir durante o uso do produto. Se precisar de orienta\u00e7\u00f5es sobre como aplicar, sobre os resultados esperados, ou at\u00e9 mesmo sobre a entrega, \u00e9 s\u00f3 me dizer. \n\nLembre-se: o RenovaGold \u00e9 formulado com col\u00e1geno marinho 150% mais potente e vitamina C para potencializar a absor\u00e7\u00e3o, e voc\u00ea vai notar uma melhora na pele em poucos dias. Se tiver alguma pergunta espec\u00edfica ou precisar de suporte, \u00e9 s\u00f3 me chamar! Estou aqui para garantir que sua experi\u00eancia seja excelente. \ud83d\ude0a  \n\nDesejo que o produto traga os melhores resultados para voc\u00ea! \ud83c\udf3f\u2728",
+            "timestamp": "2025-05-23T23:39:34.168Z",
+            "tipo": "pos_venda"
+        }
+    ],
+    "ENDERE\u00c7O": "Rua das borboletasA9-8  2950-580  qta do anjo-palmela",
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "24\/05\/2025",
+    "finalizado": true,
+    "data_finalizacao": "2025-05-23 23:37:57"
+}

@@ -1,0 +1,18 @@
+{
+    "NOME": "TESTUDA",
+    "CONTATO": "21 996656272",
+    "ENDERE\u00c7O": "RUA DAS FLORES",
+    "PROBLEMA_RELATADO": "RUGAS PESADAS",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-05-29 22:17:30",
+    "criado_em": 1748557050,
+    "atualizado_em": 1748568699,
+    "session_id": "ws_1748555896804_go646p4zy",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-05-30 01:31:39"
+}

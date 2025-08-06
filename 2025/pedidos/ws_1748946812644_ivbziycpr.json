@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1748946812644_ivbziycpr",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-03 10:33:32",
+    "criado_em": 1748946812,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-03 10:39:47",
+    "NOME": "Fernanda Umbelino",
+    "CONTATO": "937 786 786",
+    "PROBLEMA_RELATADO": "Envelhecimento da pele"
+}

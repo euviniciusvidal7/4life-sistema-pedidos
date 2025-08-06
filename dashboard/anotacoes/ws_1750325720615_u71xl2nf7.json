@@ -1,0 +1,16 @@
+[
+    {
+        "id": "6853ece76b9cf",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Contactar as 17",
+        "timestamp": "2025-06-19 10:56:39"
+    },
+    {
+        "id": "685436e89d083",
+        "usuario_id": 13,
+        "usuario_nome": "jo",
+        "comentario": "Cliente indica dificuldade financeira no momento e pede ctt para dia 12\/07",
+        "timestamp": "2025-06-19 16:12:24"
+    }
+]

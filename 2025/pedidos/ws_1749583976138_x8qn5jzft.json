@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1749583976138_x8qn5jzft",
+    "origem": "facebook",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-10 19:32:58",
+    "criado_em": 1749583978,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-10 19:35:52",
+    "NOME": "Jos\u00e9 Ramos",
+    "CONTATO": "915283893",
+    "PROBLEMA_RELATADO": "As rugas, dr."
+}

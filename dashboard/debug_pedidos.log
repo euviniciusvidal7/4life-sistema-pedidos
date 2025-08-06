@@ -1,0 +1,269 @@
+[2025-06-11 10:20:20] Requisição recebida: POST
+[2025-06-11 10:20:20] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-11 10:20:20] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-11 10:20:20] Dados recebidos: {"arquivo":"ws_1749632956845_11cwglwgg.json","tipo":"recuperacao","dados":{"NOME":"Andreia Pereira","CONTATO":"918 105 295","ENDEREÇO":"📍 Travessa Luís de Camões, nº 99, 4º Andar, Centro Posterior\n📮 Vila Nova de Gaia, 4430-136","PROBLEMA_RELATADO":"Várias coisas tenho algumas cicatrizes de um acidente e também bigode Chinese a pele muito flácida assim como no pescoço","tratamento":"Personalizado - 74.98€","origem":"facebook","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"74.98"}}
+[2025-06-11 10:20:20] Processando pedido: arquivo=ws_1749632956845_11cwglwgg.json, tipo=recuperacao
+[2025-06-11 10:20:20] Verificando caminho: ../2025/pedidos/ws_1749632956845_11cwglwgg.json
+[2025-06-11 10:20:20] Arquivo encontrado em: ../2025/pedidos/ws_1749632956845_11cwglwgg.json
+[2025-06-11 10:20:20] Índice atualizado com sucesso
+[2025-06-11 10:20:20] Pedido processado com sucesso
+[2025-06-11 10:20:20] Card criado no Trello com ID: 684958647fe5ab2775151401
+[2025-06-12 09:46:37] Requisição recebida: POST
+[2025-06-12 09:46:37] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-12 09:46:37] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-12 09:46:37] Dados recebidos: {"arquivo":"ws_1747688803861_pxtxkapvg.json","tipo":"recuperacao","dados":{"NOME":"Maria","CONTATO":"918320959","ENDEREÇO":"m ,hnm,n","PROBLEMA_RELATADO":"Asrrugas","tratamento":"1 Mês","origem":"whatsapp","versao":"v1-main","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-06-12 09:46:37] Processando pedido: arquivo=ws_1747688803861_pxtxkapvg.json, tipo=recuperacao
+[2025-06-12 09:46:37] Verificando caminho: ../2025/pedidos/ws_1747688803861_pxtxkapvg.json
+[2025-06-12 09:46:37] Arquivo encontrado em: ../2025/pedidos/ws_1747688803861_pxtxkapvg.json
+[2025-06-12 09:46:37] Índice atualizado com sucesso
+[2025-06-12 09:46:37] Pedido processado com sucesso
+[2025-06-12 09:46:38] Card criado no Trello com ID: 684aa1fda8a49b33a9f0573a
+[2025-06-12 09:47:48] Requisição recebida: POST
+[2025-06-12 09:47:48] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-12 09:47:48] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-12 09:47:48] Dados recebidos: {"arquivo":"ws_1747644947740_vlos4nvxu.json","tipo":"recuperacao","dados":{"NOME":"Elisnete soares","CONTATO":"351 924124050","ENDEREÇO":"bjn,mb nbn,","PROBLEMA_RELATADO":"Rugas profundas na testa ,código de barra,bochechas caida","tratamento":"1 Mês","origem":"whatsapp","versao":"v1-main","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-06-12 09:47:48] Processando pedido: arquivo=ws_1747644947740_vlos4nvxu.json, tipo=recuperacao
+[2025-06-12 09:47:48] Verificando caminho: ../2025/pedidos/ws_1747644947740_vlos4nvxu.json
+[2025-06-12 09:47:48] Arquivo encontrado em: ../2025/pedidos/ws_1747644947740_vlos4nvxu.json
+[2025-06-12 09:47:48] Índice atualizado com sucesso
+[2025-06-12 09:47:48] Pedido processado com sucesso
+[2025-06-12 09:47:48] Card criado no Trello com ID: 684aa2442a41b88362a14816
+[2025-06-12 10:00:05] Requisição recebida: POST
+[2025-06-12 10:00:05] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-12 10:00:05] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-12 10:00:05] Dados recebidos: {"arquivo":"ws_1749679768040_e97yuu9bv.json","tipo":"recuperacao","dados":{"NOME":"Maria Laurinda Silva Arantes","CONTATO":"932 605 214","ENDEREÇO":"📍 Rua Nova de Santa Cruz, nº 1, Esquerdo\n📮 Braga, 4710-409","PROBLEMA_RELATADO":"","tratamento":"Personalizado - 80.00€","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"80.00"}}
+[2025-06-12 10:00:05] Processando pedido: arquivo=ws_1749679768040_e97yuu9bv.json, tipo=recuperacao
+[2025-06-12 10:00:05] Verificando caminho: ../2025/pedidos/ws_1749679768040_e97yuu9bv.json
+[2025-06-12 10:00:05] Arquivo encontrado em: ../2025/pedidos/ws_1749679768040_e97yuu9bv.json
+[2025-06-12 10:00:05] Índice atualizado com sucesso
+[2025-06-12 10:00:05] Pedido processado com sucesso
+[2025-06-12 10:00:05] Card criado no Trello com ID: 684aa52559f4b472f83bc8d0
+[2025-06-16 12:48:35] Requisição recebida: POST
+[2025-06-16 12:48:35] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-16 12:48:35] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-16 12:48:35] Dados recebidos: {"arquivo":"ws_1749776785851_7irue85x9.json","tipo":"recuperacao","dados":{"NOME":"Maria Celeste","CONTATO":"912 739 400","ENDEREÇO":"📍 Rua Augusto Castilho, nº 1, 1º Retaguarda\n📮 Ourém, 2490-524\n🏙️ Cidade: Ourém","PROBLEMA_RELATADO":"Os pés de galinha, bigode chinês.","tratamento":"1 Mês","origem":"facebook","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-06-16 12:48:35] Processando pedido: arquivo=ws_1749776785851_7irue85x9.json, tipo=recuperacao
+[2025-06-16 12:48:35] Verificando caminho: ../2025/pedidos/ws_1749776785851_7irue85x9.json
+[2025-06-16 12:48:35] Arquivo encontrado em: ../2025/pedidos/ws_1749776785851_7irue85x9.json
+[2025-06-16 12:48:35] Índice atualizado com sucesso
+[2025-06-16 12:48:35] Pedido processado com sucesso
+[2025-06-16 12:48:35] Card criado no Trello com ID: 685012a322edd10b1b8b56c5
+[2025-06-17 17:50:37] Requisição recebida: POST
+[2025-06-17 17:50:37] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-17 17:50:37] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-17 17:50:37] Dados recebidos: {"arquivo":"ws_1750179933661_8qu267n7j.json","tipo":"recuperacao","dados":{"NOME":"Solange menezes","CONTATO":"962 857 058","ENDEREÇO":"📍 Rua Gomes Freire, nº 6, Rés-do-Chão Esquerdo\n📮 Queluz, 2745-115","PROBLEMA_RELATADO":"Antes de mais Dr Bruno, deixe dizer-lhe que este produto vem depois do procedimento que fiz ao lábio superior q estava enrrugado, com hialuronico, fiquei sem duvida com a boca mais bonita, fiz dois fios e fiz botox sombrancelha, cantos olhos e testa, cantos dos olhos não desapareceu, testa ok, já estava, sombrancelha não a vejo subir muito porque a tenho pálpebra gordinha mais descaída lado direito, tenho dois sulcos acima das maçãs do rosto, bigode chinês atuou ligeiramente, está-me a parecer que voltou o código barras","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-06-17 17:50:37] Processando pedido: arquivo=ws_1750179933661_8qu267n7j.json, tipo=recuperacao
+[2025-06-17 17:50:37] Verificando caminho: ../2025/pedidos/ws_1750179933661_8qu267n7j.json
+[2025-06-17 17:50:37] Arquivo encontrado em: ../2025/pedidos/ws_1750179933661_8qu267n7j.json
+[2025-06-17 17:50:37] Índice atualizado com sucesso
+[2025-06-17 17:50:37] Pedido processado com sucesso
+[2025-06-17 17:50:37] Card criado no Trello com ID: 6851aaed3aadd31d2dbe6adb
+[2025-06-19 10:52:31] Requisição recebida: POST
+[2025-06-19 10:52:31] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/suplements.tech/public_html/2025/pedidos
+[2025-06-19 10:52:31] Usando diretório de pedidos: ../2025/pedidos
+[2025-06-19 10:52:31] Dados recebidos: {"arquivo":"ws_1750328545779_gr98kstmh.json","tipo":"recuperacao","dados":{"NOME":"Alice botelho","CONTATO":"+351 934 305 115","ENDEREÇO":"📍 Rua António Correia, nº 40\n📮 Braga, 4715-310\n\n","PROBLEMA_RELATADO":"Eu sempre tive uma pele impecável, aforo com 80 anos comecei a ficar com rugas no pescoço , à volta dos olhos e da boca que não tinha, devia ser genético, todos os médicos não acreditavam na minha idade, agora pele descaída e sem brilho!!!","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-06-19 10:52:31] Processando pedido: arquivo=ws_1750328545779_gr98kstmh.json, tipo=recuperacao
+[2025-06-19 10:52:31] Verificando caminho: ../2025/pedidos/ws_1750328545779_gr98kstmh.json
+[2025-06-19 10:52:31] Arquivo encontrado em: ../2025/pedidos/ws_1750328545779_gr98kstmh.json
+[2025-06-19 10:52:31] Índice atualizado com sucesso
+[2025-06-19 10:52:31] Pedido processado com sucesso
+[2025-06-19 10:52:32] Card criado no Trello com ID: 6853ebf0ea0bdb14bc4bd650
+[2025-06-22 18:36:45] Requisição recebida: POST
+[2025-06-22 18:36:47] Requisição recebida: POST
+[2025-06-22 18:37:16] Requisição recebida: POST
+[2025-06-22 18:38:02] Requisição recebida: POST
+[2025-06-22 18:41:42] Requisição recebida: POST
+[2025-06-22 18:41:44] Requisição recebida: POST
+[2025-06-22 18:42:16] Requisição recebida: POST
+[2025-06-22 18:42:29] Requisição recebida: POST
+[2025-06-22 18:44:14] Requisição recebida: POST
+[2025-07-03 16:05:02] Requisição recebida: POST
+[2025-07-03 16:05:02] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-03 16:05:02] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-03 16:05:02] Dados recebidos: {"arquivo":"ws_1751472189232_cn4ejhxyq.json","tipo":"recuperacao","dados":{"NOME":"Tânia Santos","CONTATO":"912 075 494","ENDEREÇO":"Rua do Pinheiro, nº 40, 8700-434 olhão","PROBLEMA_RELATADO":"","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-03 16:05:02] Processando pedido: arquivo=ws_1751472189232_cn4ejhxyq.json, tipo=recuperacao
+[2025-07-03 16:05:02] Verificando caminho: ../2025/pedidos/ws_1751472189232_cn4ejhxyq.json
+[2025-07-03 16:05:02] Arquivo encontrado em: ../2025/pedidos/ws_1751472189232_cn4ejhxyq.json
+[2025-07-03 16:05:02] Índice atualizado com sucesso
+[2025-07-03 16:05:02] Pedido processado com sucesso
+[2025-07-03 16:05:02] Card criado no Trello com ID: 6866aa2e51ce995cf615231a
+[2025-07-04 08:15:25] Requisição recebida: POST
+[2025-07-04 08:15:25] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-04 08:15:25] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-04 08:15:25] Dados recebidos: {"arquivo":"ws_1751576000328_9ngg98u1j.json","tipo":"recuperacao","dados":{"NOME":"Maria Pereira","CONTATO":"933 483 751","ENDEREÇO":"📍 Rua Álvaro Castelões, nº 14, 1º Esquerdo\n📮 Setúbal, 2900-214","PROBLEMA_RELATADO":"Olá dr celso tenho 68 estou com um bigode chinês e  rugas na testa ja fiz botox e acidoeleronico  e nada resoltou","tratamento":"2 Meses","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-04 08:15:25] Processando pedido: arquivo=ws_1751576000328_9ngg98u1j.json, tipo=recuperacao
+[2025-07-04 08:15:25] Verificando caminho: ../2025/pedidos/ws_1751576000328_9ngg98u1j.json
+[2025-07-04 08:15:25] Arquivo encontrado em: ../2025/pedidos/ws_1751576000328_9ngg98u1j.json
+[2025-07-04 08:15:25] Índice atualizado com sucesso
+[2025-07-04 08:15:25] Pedido processado com sucesso
+[2025-07-04 08:15:25] Card criado no Trello com ID: 68678d9dd6e9f4a11400f635
+[2025-07-04 10:44:41] Requisição recebida: POST
+[2025-07-04 10:44:41] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-04 10:44:41] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-04 10:44:41] Dados recebidos: {"arquivo":"ws_1751624641101_9r7cxu1y6.json","tipo":"recuperacao","dados":{"NOME":"Isabel pereira","CONTATO":"914 055 597","ENDEREÇO":"Rua do Agro de Moinhos, nº 168, Bloco C, 5.4\n📮 Vila Nova de Gaia, 4430-004","PROBLEMA_RELATADO":"Mais a pele flácida","tratamento":"Personalizado - 79.98€","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"79.98"}}
+[2025-07-04 10:44:41] Processando pedido: arquivo=ws_1751624641101_9r7cxu1y6.json, tipo=recuperacao
+[2025-07-04 10:44:41] Verificando caminho: ../2025/pedidos/ws_1751624641101_9r7cxu1y6.json
+[2025-07-04 10:44:41] Arquivo encontrado em: ../2025/pedidos/ws_1751624641101_9r7cxu1y6.json
+[2025-07-04 10:44:41] Índice atualizado com sucesso
+[2025-07-04 10:44:41] Pedido processado com sucesso
+[2025-07-04 10:44:42] Card criado no Trello com ID: 6867b099cd55e3b637b26a54
+[2025-07-04 18:42:33] Requisição recebida: POST
+[2025-07-04 18:42:33] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-04 18:42:33] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-04 18:42:33] Dados recebidos: {"arquivo":"ws_1751645413844_lgahxflgf.json","tipo":"recuperacao","dados":{"NOME":"Ilda Pinto","CONTATO":"915 982 209","ENDEREÇO":"IREI PREENCHER OS DADOS AMANHÃ","PROBLEMA_RELATADO":"As linhas à volta da boca, a chamada linhas ou rugas de marionete","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-04 18:42:33] Processando pedido: arquivo=ws_1751645413844_lgahxflgf.json, tipo=recuperacao
+[2025-07-04 18:42:33] Verificando caminho: ../2025/pedidos/ws_1751645413844_lgahxflgf.json
+[2025-07-04 18:42:33] Arquivo encontrado em: ../2025/pedidos/ws_1751645413844_lgahxflgf.json
+[2025-07-04 18:42:33] Índice atualizado com sucesso
+[2025-07-04 18:42:33] Pedido processado com sucesso
+[2025-07-04 18:42:33] Card criado no Trello com ID: 686820996e72d32e1e772c64
+[2025-07-08 18:24:53] Requisição recebida: POST
+[2025-07-08 18:24:53] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-08 18:24:53] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-08 18:24:53] Dados recebidos: {"arquivo":"ws_1751990302624_uxj7e26sr.json","tipo":"recuperacao","dados":{"NOME":"Maria do Céu","CONTATO":"968 922 550","ENDEREÇO":"📍 Rua Mãe de Deus, Edifício Souza Cabral, 3º Andar, 1º Esquerdo\n📮 Ponta Delgada – Ilha de São Miguel, 9500-321, Açores","PROBLEMA_RELATADO":"Bigode chinês e e linhas de marionte","tratamento":"3 Meses","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-08 18:24:53] Processando pedido: arquivo=ws_1751990302624_uxj7e26sr.json, tipo=recuperacao
+[2025-07-08 18:24:53] Verificando caminho: ../2025/pedidos/ws_1751990302624_uxj7e26sr.json
+[2025-07-08 18:24:53] Arquivo encontrado em: ../2025/pedidos/ws_1751990302624_uxj7e26sr.json
+[2025-07-08 18:24:53] Índice atualizado com sucesso
+[2025-07-08 18:24:53] Pedido processado com sucesso
+[2025-07-08 18:24:54] Card criado no Trello com ID: 686d6275d28026f5954b6ebe
+[2025-07-08 18:28:15] Requisição recebida: POST
+[2025-07-08 18:28:15] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-08 18:28:15] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-08 18:28:15] Dados recebidos: {"arquivo":"ws_1751995792760_u9pgmr8l7.json","tipo":"recuperacao","dados":{"NOME":"Elsa Gabriela","CONTATO":"936 556 918","ENDEREÇO":"📍 Rua António Manuel Saraiva, nº 13, 1º Andar\n📮 Pinhão  5085-037","PROBLEMA_RELATADO":"Algumas rugas de expressão  não  gosto de mim assim","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-08 18:28:15] Processando pedido: arquivo=ws_1751995792760_u9pgmr8l7.json, tipo=recuperacao
+[2025-07-08 18:28:15] Verificando caminho: ../2025/pedidos/ws_1751995792760_u9pgmr8l7.json
+[2025-07-08 18:28:15] Arquivo encontrado em: ../2025/pedidos/ws_1751995792760_u9pgmr8l7.json
+[2025-07-08 18:28:15] Índice atualizado com sucesso
+[2025-07-08 18:28:15] Pedido processado com sucesso
+[2025-07-08 18:28:15] Card criado no Trello com ID: 686d633f979d46a1055905ed
+[2025-07-08 18:35:03] Requisição recebida: POST
+[2025-07-08 18:35:03] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-08 18:35:03] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-08 18:35:03] Dados recebidos: {"arquivo":"ws_1751996590498_jo3a4c8ni.json","tipo":"recuperacao","dados":{"NOME":"Carmo teixeira","CONTATO":"918 261 371","ENDEREÇO":"Caminho da Berxe, nº 18\nBila Boa de Quires, Marco de Canaveses\n📮 4635-673","PROBLEMA_RELATADO":"","tratamento":"Personalizado - 79.98€","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"79.98"}}
+[2025-07-08 18:35:03] Processando pedido: arquivo=ws_1751996590498_jo3a4c8ni.json, tipo=recuperacao
+[2025-07-08 18:35:03] Verificando caminho: ../2025/pedidos/ws_1751996590498_jo3a4c8ni.json
+[2025-07-08 18:35:03] Arquivo encontrado em: ../2025/pedidos/ws_1751996590498_jo3a4c8ni.json
+[2025-07-08 18:35:03] Índice atualizado com sucesso
+[2025-07-08 18:35:03] Pedido processado com sucesso
+[2025-07-08 18:35:03] Card criado no Trello com ID: 686d64d6a4c9fac852f47386
+[2025-07-09 14:59:13] Requisição recebida: POST
+[2025-07-09 14:59:13] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-09 14:59:13] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-09 14:59:13] Dados recebidos: {"arquivo":"ws_1752065768075_15x3h74u1.json","tipo":"recuperacao","dados":{"NOME":"Madalena Figueireido","CONTATO":"963 282 281","ENDEREÇO":"Rua Frei Joaquim Santa Rosa de Viterbo, Lote 95, 6º AN\n📮 Viseu, 3500-223","PROBLEMA_RELATADO":"","tratamento":"2 Meses","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-09 14:59:13] Processando pedido: arquivo=ws_1752065768075_15x3h74u1.json, tipo=recuperacao
+[2025-07-09 14:59:13] Verificando caminho: ../2025/pedidos/ws_1752065768075_15x3h74u1.json
+[2025-07-09 14:59:13] Arquivo encontrado em: ../2025/pedidos/ws_1752065768075_15x3h74u1.json
+[2025-07-09 14:59:13] Índice atualizado com sucesso
+[2025-07-09 14:59:13] Pedido processado com sucesso
+[2025-07-09 14:59:14] Card criado no Trello com ID: 686e83c131ecd4fbd5bc6126
+[2025-07-11 09:16:17] Requisição recebida: POST
+[2025-07-11 09:16:17] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-11 09:16:17] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-11 09:16:17] Dados recebidos: {"arquivo":"ws_1752191613963_xd4j1gfbe.json","tipo":"recuperacao","dados":{"NOME":"Benilde Lima","CONTATO":"912 321 898","ENDEREÇO":"📍 Beco dos Silvas, nº 9, Casais Lagartos\n📮 Cartaxo, 2070-366","PROBLEMA_RELATADO":"Pele baça manchas e rugas e flacidez","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-11 09:16:17] Processando pedido: arquivo=ws_1752191613963_xd4j1gfbe.json, tipo=recuperacao
+[2025-07-11 09:16:17] Verificando caminho: ../2025/pedidos/ws_1752191613963_xd4j1gfbe.json
+[2025-07-11 09:16:17] Arquivo encontrado em: ../2025/pedidos/ws_1752191613963_xd4j1gfbe.json
+[2025-07-11 09:16:17] Índice atualizado com sucesso
+[2025-07-11 09:16:17] Pedido processado com sucesso
+[2025-07-11 09:16:17] Card criado no Trello com ID: 6870d660e2f03c85b3aa4978
+[2025-07-11 09:52:54] Requisição recebida: POST
+[2025-07-11 09:52:54] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-11 09:52:54] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-11 09:52:54] Dados recebidos: {"arquivo":"ws_1752225972566_4d6r9exqq.json","tipo":"recuperacao","dados":{"NOME":"Maria Delfina Santos da Silva","CONTATO":"930 917 785","ENDEREÇO":"📍 Rua Óscar da Silva, nº 211, Apartamento 2º Esquerdo, Centro\n📮 Porto, 4200-434","PROBLEMA_RELATADO":"Te 74 anos e quero manter e não envelhecer prematura","tratamento":"Personalizado - 149.00€","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"149.00"}}
+[2025-07-11 09:52:54] Processando pedido: arquivo=ws_1752225972566_4d6r9exqq.json, tipo=recuperacao
+[2025-07-11 09:52:54] Verificando caminho: ../2025/pedidos/ws_1752225972566_4d6r9exqq.json
+[2025-07-11 09:52:54] Arquivo encontrado em: ../2025/pedidos/ws_1752225972566_4d6r9exqq.json
+[2025-07-11 09:52:54] Índice atualizado com sucesso
+[2025-07-11 09:52:54] Pedido processado com sucesso
+[2025-07-11 09:52:54] Card criado no Trello com ID: 6870def5cc568f9e6b33b70a
+[2025-07-11 11:44:36] Requisição recebida: POST
+[2025-07-11 11:44:36] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-11 11:44:36] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-11 11:44:36] Dados recebidos: {"arquivo":"ws_1752189113216_hpidzp6rv.json","tipo":"recuperacao","dados":{"NOME":"Lurdes Ferreira","CONTATO":"919 431 015","ENDEREÇO":"📍 Aldeamento das Figueiras, Casa nº 7\n📮 4765-614 Galães – Vila Nova de Famalicão","PROBLEMA_RELATADO":"Pele flácida e descaída e manchas","tratamento":"2 Meses","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-11 11:44:36] Processando pedido: arquivo=ws_1752189113216_hpidzp6rv.json, tipo=recuperacao
+[2025-07-11 11:44:36] Verificando caminho: ../2025/pedidos/ws_1752189113216_hpidzp6rv.json
+[2025-07-11 11:44:36] Arquivo encontrado em: ../2025/pedidos/ws_1752189113216_hpidzp6rv.json
+[2025-07-11 11:44:36] Índice atualizado com sucesso
+[2025-07-11 11:44:36] Pedido processado com sucesso
+[2025-07-11 11:44:36] Card criado no Trello com ID: 6870f923166bb0d3e87db667
+[2025-07-11 14:43:20] Requisição recebida: POST
+[2025-07-11 14:43:20] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-11 14:43:20] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-11 14:43:20] Dados recebidos: {"arquivo":"ws_1752243631795_5h7a6pvhf.json","tipo":"recuperacao","dados":{"NOME":"Isabel Silva","CONTATO":"910 708 030","ENDEREÇO":"📍 Rua Alexandre Braga, nº 52, 2º Direito\n📮 Vila Nova de Gaia, 4400-006","PROBLEMA_RELATADO":"As rugas profundas","tratamento":"Personalizado - 124.97€","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando","preco_personalizado":"124.97"}}
+[2025-07-11 14:43:20] Processando pedido: arquivo=ws_1752243631795_5h7a6pvhf.json, tipo=recuperacao
+[2025-07-11 14:43:20] Verificando caminho: ../2025/pedidos/ws_1752243631795_5h7a6pvhf.json
+[2025-07-11 14:43:20] Arquivo encontrado em: ../2025/pedidos/ws_1752243631795_5h7a6pvhf.json
+[2025-07-11 14:43:20] Índice atualizado com sucesso
+[2025-07-11 14:43:20] Pedido processado com sucesso
+[2025-07-11 14:43:20] Card criado no Trello com ID: 687123079994d183cc5590e4
+[2025-07-12 12:12:45] Requisição recebida: POST
+[2025-07-12 12:12:45] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-12 12:12:45] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-12 12:12:45] Dados recebidos: {"arquivo":"ws_1752311204813_u782cxsap.json","tipo":"recuperacao","dados":{"NOME":"Catarina Martins","CONTATO":"965 474 058","ENDEREÇO":"📍 Largo 25 de Abril, nº 1\n📮 Foros de Salvaterra – Salvaterra de Magos, 2120-181","PROBLEMA_RELATADO":"","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-12 12:12:45] Processando pedido: arquivo=ws_1752311204813_u782cxsap.json, tipo=recuperacao
+[2025-07-12 12:12:45] Verificando caminho: ../2025/pedidos/ws_1752311204813_u782cxsap.json
+[2025-07-12 12:12:45] Arquivo encontrado em: ../2025/pedidos/ws_1752311204813_u782cxsap.json
+[2025-07-12 12:12:45] Índice atualizado com sucesso
+[2025-07-12 12:12:45] Pedido processado com sucesso
+[2025-07-12 12:12:45] Card criado no Trello com ID: 6872513cde9ea85462672870
+[2025-07-12 15:40:52] Requisição recebida: POST
+[2025-07-12 15:40:52] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-12 15:40:52] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-12 15:40:52] Dados recebidos: {"arquivo":"ws_1752312942868_4a3c763hs.json","tipo":"recuperacao","dados":{"NOME":"Marília Silva","CONTATO":"926 076 333","ENDEREÇO":"📍 Rua Principal, nº 470 A, Entrada B, 3º Andar, Habitação B32\n📮 Vila Nova de Gaia, 4410-120","PROBLEMA_RELATADO":"As rugas á volta dos olhos","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-12 15:40:52] Processando pedido: arquivo=ws_1752312942868_4a3c763hs.json, tipo=recuperacao
+[2025-07-12 15:40:52] Verificando caminho: ../2025/pedidos/ws_1752312942868_4a3c763hs.json
+[2025-07-12 15:40:52] Arquivo encontrado em: ../2025/pedidos/ws_1752312942868_4a3c763hs.json
+[2025-07-12 15:40:52] Índice atualizado com sucesso
+[2025-07-12 15:40:52] Pedido processado com sucesso
+[2025-07-12 15:40:53] Card criado no Trello com ID: 68728204b90e907ec9e455d0
+[2025-07-12 16:13:23] Requisição recebida: POST
+[2025-07-12 16:13:23] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-12 16:13:23] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-12 16:13:23] Dados recebidos: {"arquivo":"ws_1752334660607_9lsmvs1nt.json","tipo":"recuperacao","dados":{"NOME":"Rosa ","CONTATO":"916 032 631","ENDEREÇO":".\n","PROBLEMA_RELATADO":"Preço","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-12 16:13:23] Processando pedido: arquivo=ws_1752334660607_9lsmvs1nt.json, tipo=recuperacao
+[2025-07-12 16:13:23] Verificando caminho: ../2025/pedidos/ws_1752334660607_9lsmvs1nt.json
+[2025-07-12 16:13:23] Arquivo encontrado em: ../2025/pedidos/ws_1752334660607_9lsmvs1nt.json
+[2025-07-12 16:13:23] Índice atualizado com sucesso
+[2025-07-12 16:13:23] Pedido processado com sucesso
+[2025-07-12 16:13:23] Card criado no Trello com ID: 687289a2dd25929645f1d020
+[2025-07-12 18:04:06] Requisição recebida: POST
+[2025-07-12 18:04:06] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-12 18:04:06] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-12 18:04:06] Dados recebidos: {"arquivo":"ws_1752242056518_58q9ixwon.json","tipo":"recuperacao","dados":{"NOME":"Fátima Brasil","CONTATO":"925 623 085","ENDEREÇO":"📍 Rua Professor Azevedo de Neves, nº 2\n📮 Angra do Heroísmo – Ilha Terceira, 9700-021 Açores","PROBLEMA_RELATADO":"Já está aparecendo sinais da idade","tratamento":"3 Meses","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-12 18:04:06] Processando pedido: arquivo=ws_1752242056518_58q9ixwon.json, tipo=recuperacao
+[2025-07-12 18:04:06] Verificando caminho: ../2025/pedidos/ws_1752242056518_58q9ixwon.json
+[2025-07-12 18:04:06] Arquivo encontrado em: ../2025/pedidos/ws_1752242056518_58q9ixwon.json
+[2025-07-12 18:04:06] Índice atualizado com sucesso
+[2025-07-12 18:04:06] Pedido processado com sucesso
+[2025-07-12 18:04:06] Card criado no Trello com ID: 6872a3952c2ec22514e69bd4
+[2025-07-14 08:55:47] Requisição recebida: POST
+[2025-07-14 08:55:47] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-14 08:55:47] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-14 08:55:47] Dados recebidos: {"arquivo":"ws_1752476939372_xvyjheok8.json","tipo":"recuperacao","dados":{"NOME":"Rosa Rodrigues","CONTATO":"969 307 954","ENDEREÇO":" Rua do Paiol, nº 20\n📮 Ponta Delgada – Ilha de São Miguel, 9500-231 Açores","PROBLEMA_RELATADO":"As rugas e a flacidez  da pele","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-14 08:55:47] Processando pedido: arquivo=ws_1752476939372_xvyjheok8.json, tipo=recuperacao
+[2025-07-14 08:55:47] Verificando caminho: ../2025/pedidos/ws_1752476939372_xvyjheok8.json
+[2025-07-14 08:55:47] Arquivo encontrado em: ../2025/pedidos/ws_1752476939372_xvyjheok8.json
+[2025-07-14 08:55:47] Índice atualizado com sucesso
+[2025-07-14 08:55:47] Pedido processado com sucesso
+[2025-07-14 08:55:48] Card criado no Trello com ID: 6874c613108239f5131be0c9
+[2025-07-14 09:00:16] Requisição recebida: POST
+[2025-07-14 09:00:16] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-14 09:00:16] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-14 09:00:16] Dados recebidos: {"arquivo":"ws_1752480135971_zt9282l30.json","tipo":"recuperacao","dados":{"NOME":"Ana maria rodrigues","CONTATO":"910 071 856","ENDEREÇO":"📍 Rua de Santo António, nº 4A, 1º Esquerdo\n📮 Mourisca do Vouga – Águeda, 3750-786","PROBLEMA_RELATADO":"As rugas","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-14 09:00:16] Processando pedido: arquivo=ws_1752480135971_zt9282l30.json, tipo=recuperacao
+[2025-07-14 09:00:16] Verificando caminho: ../2025/pedidos/ws_1752480135971_zt9282l30.json
+[2025-07-14 09:00:16] Arquivo encontrado em: ../2025/pedidos/ws_1752480135971_zt9282l30.json
+[2025-07-14 09:00:16] Índice atualizado com sucesso
+[2025-07-14 09:00:16] Pedido processado com sucesso
+[2025-07-14 09:00:17] Card criado no Trello com ID: 6874c720ddea3802c36e5a74
+[2025-07-14 14:26:03] Requisição recebida: POST
+[2025-07-14 14:26:03] Caminhos: relativo=../2025/pedidos, absoluto=/home/u180568174/domains/4lifenutrition.site/public_html/2025/pedidos
+[2025-07-14 14:26:03] Usando diretório de pedidos: ../2025/pedidos
+[2025-07-14 14:26:03] Dados recebidos: {"arquivo":"ws_1752500761347_x84z8vlgw.json","tipo":"recuperacao","dados":{"NOME":"Cristina Rosa Nunes","CONTATO":"969 330 069","ENDEREÇO":"📍 Rua das Margaridas, nº 14 – Pingo Longo\n📮 Belas – Sintra, 2605-167","PROBLEMA_RELATADO":"Gostaria que a minha pele ficasse 30  anos mais  nova  tenho 57  a bocado   falei com o  DRT  mas isto foi a  baixo","tratamento":"1 Mês","origem":"whatsapp","versao":"v2-n8n","Rec":true,"processado":true,"status":"aguardando"}}
+[2025-07-14 14:26:03] Processando pedido: arquivo=ws_1752500761347_x84z8vlgw.json, tipo=recuperacao
+[2025-07-14 14:26:03] Verificando caminho: ../2025/pedidos/ws_1752500761347_x84z8vlgw.json
+[2025-07-14 14:26:03] Arquivo encontrado em: ../2025/pedidos/ws_1752500761347_x84z8vlgw.json
+[2025-07-14 14:26:03] Índice atualizado com sucesso
+[2025-07-14 14:26:03] Pedido processado com sucesso
+[2025-07-14 14:26:04] Card criado no Trello com ID: 6875137be592b89e160f87f9

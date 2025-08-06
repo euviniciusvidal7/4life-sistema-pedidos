@@ -1,0 +1,23 @@
+[
+    {
+        "id": "68342e67e193f",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei e n\u00e3o atendeu, ligar novamente mais tarde!",
+        "timestamp": "2025-05-26 09:03:35"
+    },
+    {
+        "id": "6834765f99c01",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-05-26 14:10:39"
+    },
+    {
+        "id": "6835c4e61b2d7",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei, pediu para contactar depois",
+        "timestamp": "2025-05-27 13:57:58"
+    }
+]

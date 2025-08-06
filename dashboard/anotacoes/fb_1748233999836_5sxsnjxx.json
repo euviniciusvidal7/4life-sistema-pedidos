@@ -1,0 +1,16 @@
+[
+    {
+        "id": "68342e2d83b55",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei e n\u00e3o atendeu, ligar novamente mais tarde!",
+        "timestamp": "2025-05-26 09:02:37"
+    },
+    {
+        "id": "6834761023930",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Telem\u00f3vel desligado.",
+        "timestamp": "2025-05-26 14:09:20"
+    }
+]

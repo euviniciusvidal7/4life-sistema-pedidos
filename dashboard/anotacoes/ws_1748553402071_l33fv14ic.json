@@ -1,0 +1,23 @@
+[
+    {
+        "id": "683d82e425608",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e rejeitou.",
+        "timestamp": "2025-06-02 10:54:28"
+    },
+    {
+        "id": "683db27fb97c7",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Liguei e n\u00e3o atendeu.",
+        "timestamp": "2025-06-02 14:17:35"
+    },
+    {
+        "id": "683efb5b66120",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei, disse que estava interessasda, mas s\u00f3 dia 20 que recebe",
+        "timestamp": "2025-06-03 13:40:43"
+    }
+]

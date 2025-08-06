@@ -1,0 +1,28 @@
+{
+    "NOME": "Susana",
+    "ENDERE\u00c7O": "Rua Rafael Bordalo Pinheiro N 57 , 2820-082 ",
+    "CONTATO": "910 457 986",
+    "PROBLEMA_RELATADO": "Pele flavida e rugas",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Quanto e",
+            "resposta": "Boa tarde! RenovaGold tem 3 op\u00e7\u00f5es para si:  \n1 M\u00eas \u2192 **74,98\u20ac**  \n2 Meses \u2192 **119,98\u20ac** (mais econ\u00f3mico por m\u00eas!)  \n3 Meses \u2192 **149,98\u20ac** (melhor custo-benef\u00edcio + 1 m\u00eas gr\u00e1tis!).  \n\n\ud83d\udd25 **Vale a pena investir no seu rejuvenescimento natural**, com col\u00e1geno marinho 150% mais potente e resultados vis\u00edveis em 7-14 dias!  \n\ud83c\udf31 Sem contraindica\u00e7\u00f5es e pagamento apenas na entrega.  \n\n**Deseja garantir o seu pacote com 2 ou 3 meses para aproveitar o desconto?**  \nA entrega \u00e9 feita em 2-3 dias \u00fateis.",
+            "timestamp": "2025-07-14T09:40:31.993Z"
+        },
+        {
+            "pergunta": "Um mes",
+            "resposta": "Entendi! Pelo que vejo tem interesse no tratamento de **1 m\u00eas** por **74,98\u20ac**. \ud83d\ude0a  \n\n\u00c9 uma excelente escolha! **RenovaGold** combina **col\u00e1geno marinho** (150% mais potente) com **vitamina C** para resultados vis\u00edveis j\u00e1 entre **7-14 dias**. Sua pele ficar\u00e1 mais **firme, el\u00e1stica**, e as rugas, marcas de express\u00e3o e flacidez come\u00e7ar\u00e3o a diminuir. Sem contraindica\u00e7\u00f5es e com garantia de satisfa\u00e7\u00e3o.  \n\nO produto chega em **2 a 3 dias** na sua casa, e s\u00f3 paga na entrega.  \n\nDeseja seguir em frente com o tratamento de 1 m\u00eas? \ud83d\ude0a",
+            "timestamp": "2025-07-14T09:41:21.915Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "14\/07\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-07-14 09:42:00",
+    "criado_em": 1752486120
+}

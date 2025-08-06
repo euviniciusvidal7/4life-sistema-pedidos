@@ -1,0 +1,41 @@
+{
+    "session_id": "ws_1748031156111_9kgxxxtqz",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-23 20:12:32",
+    "criado_em": 1748031152,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "NOME": "Isabel marques",
+    "ultima_atualizacao": "2025-05-23 20:22:12",
+    "CONTATO": "914155779",
+    "PROBLEMA_RELATADO": "S\u00e3o as rugas e os papos nos olhos",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "Agora de momento n\u00e3o",
+        "Agora  n\u00e3o",
+        "Agora de momento n\u00e3o obrigado",
+        "N\u00e3o obrigado"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Agora de momento n\u00e3o",
+            "resposta": "Entendo perfeitamente! Mas lembre-se: RenovaGold \u00e9 a solu\u00e7\u00e3o eficaz e segura para rejuvenescer a pele, reduzir rugas e restaurar firmeza. Com resultados vis\u00edveis j\u00e1 em 7-14 dias e um tratamento sem contraindica\u00e7\u00f5es, \u00e9 uma op\u00e7\u00e3o inigual\u00e1vel. Se quiser, posso ajud\u00e1-lo a escolher o pacote ideal para come\u00e7ar quando estiver pronto. Deseja prosseguir com o tratamento? \ud83d\ude0a",
+            "timestamp": "2025-05-23T20:20:02.027Z"
+        },
+        {
+            "pergunta": "Agora  n\u00e3o",
+            "resposta": "Entendo! Mas quero que saiba que o RenovaGold \u00e9 uma solu\u00e7\u00e3o r\u00e1pida e segura para revitalizar a sua pele, com resultados vis\u00edveis em poucos dias. Sem contraindica\u00e7\u00f5es, apenas pagamento na entrega, e garantia de satisfa\u00e7\u00e3o. Se quiser, posso ajud\u00e1-lo a escolher o pacote ideal quando estiver pronto. Deseja prosseguir com o tratamento? \ud83c\udf1f",
+            "timestamp": "2025-05-23T20:20:35.348Z"
+        },
+        {
+            "pergunta": "Agora de momento n\u00e3o obrigado",
+            "resposta": "Entendo, mas quero relembrar que o RenovaGold \u00e9 uma solu\u00e7\u00e3o eficaz e segura para recuperar a firmeza e a juventude da pele, com resultados vis\u00edveis em apenas 7-14 dias. A garantia de satisfa\u00e7\u00e3o e o pagamento apenas na entrega tornam a decis\u00e3o ainda mais tranquila. Se quiser, posso ajud\u00e1-lo a escolher o pacote ideal para o seu caso. Deseja prosseguir com o tratamento?",
+            "timestamp": "2025-05-23T20:21:22.995Z"
+        }
+    ]
+}

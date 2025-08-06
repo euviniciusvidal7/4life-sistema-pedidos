@@ -1,0 +1,20 @@
+{
+    "NOME": "Maria Pereira",
+    "CONTATO": "933 483 751",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua \u00c1lvaro Castel\u00f5es, n\u00ba 14, 1\u00ba Esquerdo\n\ud83d\udcee Set\u00fabal, 2900-214",
+    "PROBLEMA_RELATADO": "Ol\u00e1 dr celso tenho 68 estou com um bigode chin\u00eas e  rugas na testa ja fiz botox e acidoeleronico  e nada resoltou",
+    "tratamento": "2 Meses",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-03 20:53:23",
+    "criado_em": 1751576003,
+    "atualizado_em": 1751616925,
+    "session_id": "ws_1751576000328_9ngg98u1j",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-04 08:15:25",
+    "id_trello": "68678d9dd6e9f4a11400f635",
+    "status_trello": "PRONTO PARA ENVIO"
+}

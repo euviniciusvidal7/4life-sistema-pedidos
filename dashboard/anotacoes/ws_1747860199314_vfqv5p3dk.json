@@ -1,0 +1,16 @@
+[
+    {
+        "id": "682ee65bb2630",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei e disse que ia pensar.",
+        "timestamp": "2025-05-22 08:54:51"
+    },
+    {
+        "id": "6830889608a36",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Disse que n\u00e3o quer",
+        "timestamp": "2025-05-23 14:39:18"
+    }
+]

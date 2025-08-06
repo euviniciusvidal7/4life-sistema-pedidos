@@ -1,0 +1,16 @@
+[
+    {
+        "id": "682da0c7088d2",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Tentei contactar e n\u00e3o atendeu.",
+        "timestamp": "2025-05-21 09:45:43"
+    },
+    {
+        "id": "682dcfc17f30b",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei, atendeu, e n\u00e3o quis.",
+        "timestamp": "2025-05-21 13:06:09"
+    }
+]

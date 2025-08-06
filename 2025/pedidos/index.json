@@ -1,0 +1,210 @@
+[
+    {
+        "NOME": "Matilde guerreiro",
+        "ENDEREÇO": "Largo Escritor Manuel Ribeiro Nr 9 Loja Nr 9 Rc Nr 9, 7800-421 Beja",
+        "CONTATO": "963548383",
+        "PROBLEMA_RELATADO": "A flac",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [
+            {
+                "pergunta": "Um mês",
+                "resposta": "Perfeito! O tratamento de **1 mês** de RenovaGold está disponível por **74,98€**. Com colágeno marinho 150% mais potente e vitamina C para absorção ideal, os resultados começam a surgir em **7-14 dias** (rejuvenescimento, redução de rugas e flacidez).  \n\nEntrega em **2-3 dias úteis**, pagamento apenas na receção e garantia de satisfação. Deseja avançar com o seu tratamento? 😊",
+                "timestamp": "2025-07-10T22:41:03.455Z"
+            }
+        ],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "10\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-10 22:42:48",
+        "criado_em": 1752187368,
+        "pedido_id": "pedido_687041e830ded8.83348529",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-10 22:42:48",
+            "telefone": "2025-07-10 22:42:48",
+            "problema": "2025-07-10 22:42:48"
+        }
+    },
+    {
+        "NOME": "Rosa Mendonça",
+        "ENDEREÇO": "Pedras Da Rainha S&a, 8800-592 ",
+        "CONTATO": "966166480",
+        "PROBLEMA_RELATADO": "Eu trabalho em hotel eriana onde a imagem é fundamental. E já tenho a cara  cheia de rugas o que  não  beneficial a minha imagem junto dos clientes",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "11\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-11 18:42:26",
+        "criado_em": 1752259346,
+        "pedido_id": "pedido_68715b123a4157.56126046",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-11 18:42:26",
+            "telefone": "2025-07-11 18:42:26",
+            "problema": "2025-07-11 18:42:26"
+        }
+    },
+    {
+        "NOME": "Maria Alice Assalino",
+        "ENDEREÇO": "Rua Gentil Ribeiro 16 6c 16 6c, 3080-017Rua gente Ribeiro 16,6c 3080-017 ",
+        "CONTATO": "965880733",
+        "PROBLEMA_RELATADO": "Especialmente no lábio superior",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [
+            {
+                "pergunta": "1mes",
+                "resposta": "Excelente escolha! O seu tratamento de 1 mês de RenovaGold será entregue em 2-3 dias úteis, com pagamento seguro na receção. Como sabe, começa a notar resultados em 7-14 dias graças ao colágeno marinho 150% mais potente e à Vitamina C para uma absorção máxima. Rejuvenesce a pele, reduz rugas e devolve a firmeza — tudo sem contraindicações. Deseja prosseguir com o seu pedido de 74,98€? ✔️ Garantia incluída.",
+                "timestamp": "2025-07-12T17:24:16.254Z"
+            }
+        ],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "12\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-12 17:26:07",
+        "criado_em": 1752341167,
+        "pedido_id": "pedido_68729aafbfe408.35218052",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-12 17:26:07",
+            "telefone": "2025-07-12 17:26:07",
+            "problema": "2025-07-12 17:26:07"
+        }
+    },
+    {
+        "NOME": "Céu Simões",
+        "ENDEREÇO": "Urb.Planalto Rua do Planalto lote39 loja A , 2415-607 ",
+        "CONTATO": "913 035 144",
+        "PROBLEMA_RELATADO": "Rugas de olhos e boca pele envelhecida",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "12\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-12 18:43:35",
+        "criado_em": 1752345815,
+        "pedido_id": "pedido_6872acd7bc8321.40974971",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-12 18:43:35",
+            "telefone": "2025-07-12 18:43:35",
+            "problema": "2025-07-12 18:43:35"
+        }
+    },
+    {
+        "NOME": "Boa tarde",
+        "ENDEREÇO": "Rua dos brejos velhos n5 , 3105-055 ",
+        "CONTATO": "Ana",
+        "PROBLEMA_RELATADO": "917006642",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "14\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-14 18:54:43",
+        "criado_em": 1752519283,
+        "pedido_id": "pedido_68755273de31d4.75046406",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-14 18:54:43",
+            "telefone": "2025-07-14 18:54:43",
+            "problema": "2025-07-14 18:54:43"
+        }
+    },
+    {
+        "NOME": "Cristina",
+        "ENDEREÇO": "Casa 3 Alameda Raul Tamagnini , 2725-672",
+        "CONTATO": "932487729",
+        "PROBLEMA_RELATADO": "Bigode chinês, manchas, olheiras",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "15\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-14 23:15:04",
+        "criado_em": 1752534904,
+        "pedido_id": "pedido_68758f78577e68.19295962",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-14 23:15:04",
+            "telefone": "2025-07-14 23:15:04",
+            "problema": "2025-07-14 23:15:04"
+        }
+    },
+    {
+        "NOME": "Eliana",
+        "ENDEREÇO": "Rua Principal 336, 3465-155",
+        "CONTATO": "939061850",
+        "PROBLEMA_RELATADO": "As rugas",
+        "PERGUNTAS_FEITAS": [],
+        "CONVERSA_IA": [],
+        "PACOTE_ESCOLHIDO": "1 mês de tratamento - RENOVAGOLD (74,98€)",
+        "DATA": "18\/07\/2025",
+        "versao": "v2-main-n8n",
+        "DESCONTO_APLICADO": false,
+        "VALOR_FINAL": 74.98,
+        "MODO_FALLBACK": false,
+        "Rec": false,
+        "timestamp": "2025-07-18 20:51:19",
+        "criado_em": 1752871879,
+        "pedido_id": "pedido_687ab3c74e1df8.63868921",
+        "marcos_progresso": [
+            "nome",
+            "telefone",
+            "problema"
+        ],
+        "marcos_timestamp": {
+            "nome": "2025-07-18 20:51:19",
+            "telefone": "2025-07-18 20:51:19",
+            "problema": "2025-07-18 20:51:19"
+        }
+    }
+]

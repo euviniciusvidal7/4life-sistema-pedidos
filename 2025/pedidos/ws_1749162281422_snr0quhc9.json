@@ -1,0 +1,20 @@
+{
+    "NOME": "F\u00e1tima Neves",
+    "CONTATO": "914 522 003",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua da Milharada, n\u00ba 29, Loja C\n\ud83c\udfd8\ufe0f Queluz\n\ud83d\udcee 2745-822 Sintra",
+    "PROBLEMA_RELATADO": "Pele seca, com rugas pouca elasticidade envelhecida",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-05 22:24:42",
+    "criado_em": 1749162282,
+    "atualizado_em": 1749234127,
+    "session_id": "ws_1749162281422_snr0quhc9",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-06 18:22:07",
+    "id_trello": "684331cf1e09c5e9d17c1f3c",
+    "status_trello": "PRONTO PARA ENVIO"
+}

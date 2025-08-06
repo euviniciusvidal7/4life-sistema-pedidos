@@ -1,0 +1,266 @@
+.json-code {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    white-space: pre-wrap;
+    font-family: monospace;
+    font-size: 13px;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* Status Badges */
+.status-badge {
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.status-badge.status-aguardando {
+    background-color: #607D8B;
+    color: white;
+}
+
+.status-badge.status-ligar {
+    background-color: #9C27B0;
+    color: white;
+}
+
+.status-badge.status-processando {
+    background-color: #FF9800;
+    color: #212529;
+}
+
+.status-badge.status-processado {
+    background-color: #FFC107;
+    color: #212529;
+}
+
+.status-badge.status-concluido {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.status-badge.status-devolucao {
+    background-color: #F44336;
+    color: white;
+}
+
+/* Pedidos Cards */
+.pedido-card {
+    transition: all 0.3s;
+    cursor: pointer;
+    border-radius: 10px;
+    overflow: hidden;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.pedido-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.pedido-card.novo {
+    border-left: 4px solid #ffc107;
+    box-shadow: 0 4px 12px rgba(255, 193, 7, 0.2);
+}
+
+.pedido-card .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 12px 16px;
+}
+
+.pedido-card .card-body {
+    padding: 16px;
+}
+
+.pedido-card .card-footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 12px 16px;
+}
+
+.novo-badge {
+    animation: pulse 2s infinite;
+    font-size: 11px;
+    padding: 3px 8px;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(255, 193, 7, 0.4);
+    }
+    70% {
+        box-shadow: 0 0 0 6px rgba(255, 193, 7, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(255, 193, 7, 0);
+    }
+}
+
+/* Estilo para as métricas no estilo roxo */
+.metric-card {
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
+
+.metric-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.18);
+}
+
+.metric-card.gray {
+    background: linear-gradient(135deg, #455A64, #607D8B) !important;
+}
+
+.metric-card.purple {
+    background: linear-gradient(135deg, #673AB7, #9575CD) !important;
+}
+
+.metric-card.blue {
+    background: linear-gradient(135deg, #1976D2, #64B5F6) !important;
+}
+
+.metric-card.green {
+    background: linear-gradient(135deg, #2E7D32, #4CAF50) !important;
+}
+
+.metric-card.orange {
+    background: linear-gradient(135deg, #E65100, #FF9800) !important;
+}
+
+.metric-card.yellow {
+    background: linear-gradient(135deg, #FFA000, #FFC107) !important;
+    color: #212529;
+}
+
+.metric-card.red {
+    background: linear-gradient(135deg, #C62828, #F44336) !important;
+}
+
+.metric-card .number {
+    font-size: 36px;
+    font-weight: 700;
+    margin: 10px 0;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.metric-card .label {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: 0.9;
+}
+
+.metric-card .icon {
+    position: absolute;
+    bottom: -15px;
+    right: -15px;
+    font-size: 80px;
+    opacity: 0.15;
+}
+
+/* Estilos para o modal */
+.modal-header {
+    background: linear-gradient(135deg, #673AB7, #9575CD);
+    color: white;
+    border-bottom: none;
+    border-radius: 10px 10px 0 0;
+    padding: 15px 20px;
+}
+
+.modal-header .btn-close {
+    color: white;
+    text-shadow: none;
+    opacity: 0.8;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 15px 20px;
+}
+
+.detail-item {
+    margin-bottom: 15px;
+    border-left: 3px solid #673AB7;
+    padding-left: 15px;
+    background-color: #f8f9fa;
+    border-radius: 0 4px 4px 0;
+    padding: 10px 15px;
+}
+
+.detail-label {
+    font-weight: 600;
+    color: #495057;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: 0.5px;
+}
+
+.detail-value {
+    font-size: 15px;
+    color: #212529;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .metric-card .number {
+        font-size: 28px;
+    }
+    
+    .metric-card .icon {
+        font-size: 60px;
+    }
+}
+
+/* Melhorias em formulários */
+.form-control:focus, .form-select:focus {
+    border-color: #b794f6;
+    box-shadow: 0 0 0 0.25rem rgba(103, 58, 183, 0.25);
+}
+
+.btn-primary {
+    background-color: #673AB7;
+    border-color: #5e35b1;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+    background-color: #5e35b1;
+    border-color: #512da8;
+}
+
+.btn-success {
+    background-color: #4CAF50;
+    border-color: #43a047;
+}
+
+.btn-success:hover, .btn-success:focus {
+    background-color: #43a047;
+    border-color: #388e3c;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+} 

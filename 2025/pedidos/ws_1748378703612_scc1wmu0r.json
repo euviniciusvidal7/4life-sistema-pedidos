@@ -1,0 +1,28 @@
+{
+    "session_id": "ws_1748378703612_scc1wmu0r",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-27 20:45:01",
+    "criado_em": 1748378701,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "NOME": "Cristiane",
+    "ultima_atualizacao": "2025-05-27 20:53:13",
+    "CONTATO": "Esse que estou a falar contigo",
+    "PROBLEMA_RELATADO": "As marcas de express\u00f5es, tenho a pele muito ressecada",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "Vou ver com o meu marido e Jaj\u00e1 eu aviso o Sr."
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Vou ver com o meu marido e Jaj\u00e1 eu aviso o Sr.",
+            "resposta": "RenovaGold: colag\u00e9nio marinho 150% mais forte, vit C, resultados em 7 dias. Garantia satisfa\u00e7\u00e3o. Quer prosseguir?",
+            "timestamp": "2025-05-27T20:53:15.755Z"
+        }
+    ]
+}

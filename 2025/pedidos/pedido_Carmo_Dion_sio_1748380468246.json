@@ -1,0 +1,23 @@
+{
+    "NOME": "Carmo Dion\u00edsio",
+    "ENDERE\u00c7O": "Estrada Fonte Lopo, n\u00famero 23, 9100-023 Gaula  Sta Cruz  \/Madeira ",
+    "CONTATO": "962812106",
+    "PROBLEMA_RELATADO": "Estou a ficar com bigode chin\u00eas, flacidez no rosto e uma papada no pesco\u00e7o",
+    "PERGUNTAS_FEITAS": [
+        "O produto \u00e9 portugu\u00eas ou brasileiro",
+        "Sim"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "O produto \u00e9 portugu\u00eas ou brasileiro",
+            "resposta": "O RenovaGold \u00e9 portugu\u00eas! \ud83c\uddf5\ud83c\uddf9 Experimente e veja a diferen\u00e7a! Deseja prosseguir?",
+            "timestamp": "2025-05-27T21:12:04.326Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "27\/05\/2025",
+    "versao": "v1-main",
+    "Rec": false,
+    "timestamp": "2025-05-27 21:14:25",
+    "criado_em": 1748380465
+}

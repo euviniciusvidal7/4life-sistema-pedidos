@@ -1,0 +1,28 @@
+{
+    "session_id": "ws_1748474176594_8vhakxfk3",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-05-28 23:16:18",
+    "criado_em": 1748474178,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 5,
+    "ultima_atualizacao": "2025-05-28 23:21:14",
+    "CONTATO": "Auzenda",
+    "PROBLEMA_RELATADO": "Flacidez envolta da boca e rugas nos olhos",
+    "PERGUNTAS_FEITAS": [
+        "Obrigada \u00e9 muito caro"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Obrigada \u00e9 muito caro",
+            "resposta": "Agrade\u00e7o pelo seu feedback! Entendo a preocupa\u00e7\u00e3o com o pre\u00e7o, mas considere que **RenovaGold** oferece um tratamento premium com resultados r\u00e1pidos e duradouros. Por exemplo, no pacote de 3 meses (149,98\u20ac), o custo di\u00e1rio \u00e9 de apenas **1,66\u20ac por dia** \u2013 menos que um caf\u00e9! Al\u00e9m disso, a f\u00f3rmula com col\u00e1geno marinho 150% mais potente e Vitamina C garante rejuvenescimento vis\u00edvel desde a primeira semana, evitando gastos com cremes caros ou procedimentos est\u00e9ticos futuros.  \n\nAinda tem d\u00favidas sobre o investimento? Posso ajustar a oferta para melhor se encaixar no seu or\u00e7amento. Deseja conhecer os detalhes dos pacotes novamente?"
+        }
+    ]
+}

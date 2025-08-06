@@ -1,0 +1,16 @@
+[
+    {
+        "id": "6835c43b37dbd",
+        "usuario_id": 3,
+        "usuario_nome": "bruno",
+        "comentario": "Liguei, estava a trabalhar",
+        "timestamp": "2025-05-27 13:55:07"
+    },
+    {
+        "id": "6836d94ce2e00",
+        "usuario_id": 10,
+        "usuario_nome": "afonsomatias7",
+        "comentario": "Ligar a partir das 18h.",
+        "timestamp": "2025-05-28 09:37:16"
+    }
+]

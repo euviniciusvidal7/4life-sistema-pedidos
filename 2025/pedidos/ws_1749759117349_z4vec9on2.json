@@ -1,0 +1,60 @@
+{
+    "session_id": "ws_1749759117349_z4vec9on2",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-06-12 20:11:57",
+    "criado_em": 1749759117,
+    "Rec": false,
+    "etapa_atual": "endereco_confirmado",
+    "NOME": "Simone Detzel",
+    "ultima_atualizacao": "2025-06-12 20:23:20",
+    "CONTATO": "961547368",
+    "PROBLEMA_RELATADO": "Rugas flacidez bigode chin\u00eas",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "N\u00e3o",
+        "Qual a forma de pgto e o tempo de entrega",
+        "R\u00e1pida qtos dias",
+        "Sim",
+        "Apto 617 ok",
+        "Obrigada"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "N\u00e3o",
+            "resposta": "Vantagens exclusivas! Colag\u00e9nio marinho 150% mais forte + Vitamina C. Resultados em 7-14 dias. Garantia de satisfa\u00e7\u00e3o. Deseja prosseguir?",
+            "timestamp": "2025-06-12T20:18:50.353Z"
+        },
+        {
+            "pergunta": "Qual a forma de pgto e o tempo de entrega",
+            "resposta": "Pagamento apenas na entrega. Entrega r\u00e1pida. Deseja prosseguir?",
+            "timestamp": "2025-06-12T20:18:57.508Z"
+        },
+        {
+            "pergunta": "R\u00e1pida qtos dias",
+            "resposta": "Resultados vis\u00edveis em 7-14 dias! Colag\u00e9nio marinho 150% mais potente. Deseja prosseguir?",
+            "timestamp": "2025-06-12T20:19:39.401Z"
+        },
+        {
+            "pergunta": "Apto 617 ok",
+            "resposta": "Ol\u00e1! Confirmado. Como est\u00e1 se sentindo com o produto? Estou aqui para ajudar!",
+            "timestamp": "2025-06-12T20:22:41.195Z",
+            "tipo": "pos_venda"
+        },
+        {
+            "pergunta": "Obrigada",
+            "resposta": "Voc\u00ea \u00e9 bem-vindo! Estamos aqui para ajudar. RenovaGold com col\u00e1geno marinho 150% mais potente e vitamina C. Resultados em 7-14 dias.",
+            "timestamp": "2025-06-12T20:23:20.693Z",
+            "tipo": "pos_venda"
+        }
+    ],
+    "ENDERE\u00c7O": "Rua Vitorino Nem\u00e9sio, Montechoro Ed J\u00falio Dinis, 8200-093",
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "12\/06\/2025",
+    "finalizado": true,
+    "data_finalizacao": "2025-06-12 20:21:12"
+}
