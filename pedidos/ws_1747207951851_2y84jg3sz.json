@@ -1,0 +1,17 @@
+{
+    "NOME": "teste",
+    "CONTATO": "123123123",
+    "ENDERE\u00c7O": "teste",
+    "PROBLEMA_RELATADO": "teste",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "aguardando",
+    "timestamp": "2025-05-14 07:32:30",
+    "criado_em": 1747207950,
+    "atualizado_em": 1747278408,
+    "session_id": "ws_1747207951851_2y84jg3sz",
+    "recuperado_por": 3,
+    "id_trello": "68255a4a2428274ac41a64c0"
+}

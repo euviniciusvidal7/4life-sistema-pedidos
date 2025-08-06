@@ -1,0 +1,17 @@
+{
+    "NOME": "marcos",
+    "ENDERE\u00c7O": "Rua A, 114, 1000-300",
+    "CONTATO": "21 996656272",
+    "PROBLEMA_RELATADO": "ruags",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "22\/06\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-06-22 04:52:02",
+    "criado_em": 1750567922
+}

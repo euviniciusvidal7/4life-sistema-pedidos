@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752518905472_rrkphgszf",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-14 18:48:29",
+    "criado_em": 1752518909,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "1ae05539-3e84-4e02-9fb3-3fdf2f2f7227",
+    "step": 3,
+    "NOME": "Boa tarde",
+    "ultima_atualizacao": "2025-07-14 18:48:59",
+    "CONTATO": "Ana",
+    "PROBLEMA_RELATADO": "917006642"
+}

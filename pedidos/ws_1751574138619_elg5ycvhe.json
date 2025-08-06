@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751574138619_elg5ycvhe",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-03 20:22:23",
+    "criado_em": 1751574143,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-03 20:28:09",
+    "NOME": "Maria Pereira",
+    "CONTATO": "933483751",
+    "PROBLEMA_RELATADO": "Ola boa noite dr celso ja fiz botox na testa e  acieleronico  no bigode chin\u00eas  gastei muito dinheiro e voltou ao mesmo preciso de ajuda"
+}

@@ -1,0 +1,23 @@
+{
+    "session_id": "test_1748432079_18cdf073",
+    "origem": "whatsapp_n8n",
+    "versao": "v2-n8n",
+    "timestamp": "2025-05-28 11:34:39",
+    "criado_em": 1748432079,
+    "Rec": false,
+    "etapa_atual": "pedido_finalizado",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "diagnostico",
+        "endereco",
+        "finalizado"
+    ],
+    "step": 8,
+    "ENDERECO_COMPLETO": "Rua das Flores, 123, 1\u00ba Andar, 1000-001 Lisboa",
+    "TELEFONE_FINAL": "+351 912 345 678",
+    "STATUS": "FINALIZADO",
+    "data_finalizacao": "2025-05-28 11:34:40",
+    "finalizado": true
+}

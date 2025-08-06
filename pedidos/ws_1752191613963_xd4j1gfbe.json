@@ -1,0 +1,20 @@
+{
+    "NOME": "Benilde Lima",
+    "CONTATO": "912 321 898",
+    "ENDERE\u00c7O": "\ud83d\udccd Beco dos Silvas, n\u00ba 9, Casais Lagartos\n\ud83d\udcee Cartaxo, 2070-366",
+    "PROBLEMA_RELATADO": "Pele ba\u00e7a manchas e rugas e flacidez",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-10 23:53:38",
+    "criado_em": 1752191618,
+    "atualizado_em": 1752225377,
+    "session_id": "ws_1752191613963_xd4j1gfbe",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-11 09:16:17",
+    "id_trello": "6870d660e2f03c85b3aa4978",
+    "status_trello": "PRONTO PARA ENVIO"
+}

@@ -1,0 +1,23 @@
+{
+    "NOME": "Maria Alice Assalino",
+    "ENDERE\u00c7O": "Rua Gentil Ribeiro 16 6c 16 6c, 3080-017Rua gente Ribeiro 16,6c 3080-017 ",
+    "CONTATO": "965880733",
+    "PROBLEMA_RELATADO": "Especialmente no l\u00e1bio superior",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "1mes",
+            "resposta": "Excelente escolha! O seu tratamento de 1 m\u00eas de RenovaGold ser\u00e1 entregue em 2-3 dias \u00fateis, com pagamento seguro na rece\u00e7\u00e3o. Como sabe, come\u00e7a a notar resultados em 7-14 dias gra\u00e7as ao col\u00e1geno marinho 150% mais potente e \u00e0 Vitamina C para uma absor\u00e7\u00e3o m\u00e1xima. Rejuvenesce a pele, reduz rugas e devolve a firmeza \u2014 tudo sem contraindica\u00e7\u00f5es. Deseja prosseguir com o seu pedido de 74,98\u20ac? \u2714\ufe0f Garantia inclu\u00edda.",
+            "timestamp": "2025-07-12T17:24:16.254Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "12\/07\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-07-12 17:26:07",
+    "criado_em": 1752341167
+}

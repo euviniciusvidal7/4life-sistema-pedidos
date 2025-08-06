@@ -1,0 +1,34 @@
+{
+    "session_id": "ws_1751493609345_jg57fub06",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-02 22:00:10",
+    "criado_em": 1751493610,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 5,
+    "ultima_atualizacao": "2025-07-02 22:11:38",
+    "NOME": "Ola senhor Doutos",
+    "CONTATO": "Eu queria muito",
+    "PROBLEMA_RELATADO": "Tenho  muitas manchas e aljuma  rugas",
+    "PERGUNTAS_FEITAS": [
+        "1",
+        "Muito obrigado senhor Doutor   Bruno mas neste momemto na\u014d esto em casa esto de ferias"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "1",
+            "resposta": "\u00d3tima escolha! O seu tratamento de 1 m\u00eas RenovaGold est\u00e1 a apenas um passo: **74,98\u20ac**, com entrega em 2-3 dias \u00fateis. Pague apenas na entrega e aproveite os resultados vis\u00edveis j\u00e1 nas primeiras semanas! \ud83c\udf1f  \n\nDeseja confirmar o pedido? \ud83d\ude0a"
+        },
+        {
+            "pergunta": "Muito obrigado senhor Doutor   Bruno mas neste momemto na\u014d esto em casa esto de ferias",
+            "resposta": "Muito bem, Sr. Cliente! Como o RenovaGold \u00e9 entregue diretamente em sua casa em 2-3 dias **e o pagamento \u00e9 feito apenas na entrega**, nada o impede de garantir o seu pacote agora para come\u00e7ar o tratamento assim que retornar das f\u00e9rias. Imagine voltar com a pele mais firme, el\u00e1stica e renovada em poucas semanas \u2013 e com garantia total, sem riscos! \ud83c\udf34\u2728  \n\nDeseja reservar o seu agora (1, 2 ou 3 meses) para iniciar ap\u00f3s as f\u00e9rias? Basta confirmar, e enviamos assim que indicar que est\u00e1 de volta."
+        }
+    ]
+}

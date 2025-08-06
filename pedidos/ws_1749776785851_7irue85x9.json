@@ -1,0 +1,20 @@
+{
+    "NOME": "Maria Celeste",
+    "CONTATO": "912 739 400",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua Augusto Castilho, n\u00ba 1, 1\u00ba Retaguarda\n\ud83d\udcee Our\u00e9m, 2490-524\n\ud83c\udfd9\ufe0f Cidade: Our\u00e9m",
+    "PROBLEMA_RELATADO": "Os p\u00e9s de galinha, bigode chin\u00eas.",
+    "tratamento": "1 M\u00eas",
+    "origem": "facebook",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-13 01:06:28",
+    "criado_em": 1749776788,
+    "atualizado_em": 1750078115,
+    "session_id": "ws_1749776785851_7irue85x9",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-16 12:48:35",
+    "id_trello": "685012a322edd10b1b8b56c5",
+    "status_trello": "PRONTO PARA ENVIO"
+}

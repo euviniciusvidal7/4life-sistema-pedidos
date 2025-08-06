@@ -1,0 +1,29 @@
+{
+    "session_id": "ws_1748450221395_r3m7b9eno",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-28 16:37:02",
+    "criado_em": 1748450222,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "NOME": "Ol\u00e1 quanto custa? Por favor",
+    "ultima_atualizacao": "2025-05-28 16:45:11",
+    "CONTATO": "917158189",
+    "PROBLEMA_RELATADO": "Rugas e flacidez e algumas manchas",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "AOk. Mas n\u00e3o est\u00e1 n\u00e3o esta intressada a pessoa.obrigada",
+        "A pessoa j\u00e1 viu os pre\u00e7os n\u00e3o tem possibilidades."
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "AOk. Mas n\u00e3o est\u00e1 n\u00e3o esta intressada a pessoa.obrigada",
+            "resposta": "",
+            "timestamp": "2025-05-28T16:45:09.829Z"
+        }
+    ]
+}

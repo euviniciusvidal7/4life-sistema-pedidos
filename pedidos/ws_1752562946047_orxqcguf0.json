@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752562946047_orxqcguf0",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-15 07:02:32",
+    "criado_em": 1752562952,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "64ad7fd2-d3a9-4c6e-8bac-f4ce511a2ade",
+    "step": 3,
+    "NOME": "Cristina",
+    "ultima_atualizacao": "2025-07-15 07:06:03",
+    "CONTATO": "969912553",
+    "PROBLEMA_RELATADO": "Tenho algumas rugas, como andei algum tempo  em tratamento  dos dentes a minha pele ficou fl\u00e1cida e apanhei algumas rugas"
+}

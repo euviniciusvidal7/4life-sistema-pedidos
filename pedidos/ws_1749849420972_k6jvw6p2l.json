@@ -1,0 +1,15 @@
+{
+    "session_id": "ws_1749849420972_k6jvw6p2l",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-13 21:17:04",
+    "criado_em": 1749849424,
+    "Rec": true,
+    "etapa_atual": "coleta_telefone",
+    "marcos_progresso": [
+        "nome"
+    ],
+    "step": 1,
+    "ultima_atualizacao": "2025-06-13 21:17:59",
+    "NOME": "Maria"
+}

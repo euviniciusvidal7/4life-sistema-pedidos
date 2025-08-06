@@ -1,0 +1,29 @@
+{
+    "session_id": "ws_1748431746658_ps85pmgip",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-28 11:29:04",
+    "criado_em": 1748431744,
+    "Rec": true,
+    "etapa_atual": "perguntas",
+    "NOME": "Maria garcia",
+    "ultima_atualizacao": "2025-05-28 11:35:16",
+    "CONTATO": "969628709",
+    "PROBLEMA_RELATADO": "Arrugas",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "S\u00f3 1",
+        "Sim"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "S\u00f3 1",
+            "resposta": "O tratamento de 1 m\u00eas (74,98\u20ac) revitaliza a pele com colag\u00e9nio marinho e vitamina C. Resultados vis\u00edveis em 7-14 dias. Deseja prosseguir?",
+            "timestamp": "2025-05-28T11:35:08.488Z"
+        }
+    ]
+}

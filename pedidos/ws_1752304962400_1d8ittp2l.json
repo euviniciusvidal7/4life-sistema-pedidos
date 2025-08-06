@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752304962400_1d8ittp2l",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-12 07:22:46",
+    "criado_em": 1752304966,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "d30bfd49-0e38-42dc-8920-0687a3784831",
+    "step": 3,
+    "NOME": "Bom dia doutor, Juliana",
+    "ultima_atualizacao": "2025-07-12 07:26:39",
+    "CONTATO": "Por favor quanto custa o frasco",
+    "PROBLEMA_RELATADO": "Bigode chin\u00ea"
+}

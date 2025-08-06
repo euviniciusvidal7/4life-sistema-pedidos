@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751618233503_458lmg65u",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-04 08:37:16",
+    "criado_em": 1751618236,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-04 08:40:25",
+    "NOME": "Gilda",
+    "CONTATO": "9y62625125",
+    "PROBLEMA_RELATADO": "Flacidez perto  da boca e bigode chines"
+}

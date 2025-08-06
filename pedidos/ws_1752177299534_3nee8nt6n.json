@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752177299534_3nee8nt6n",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-10 19:55:05",
+    "criado_em": 1752177305,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "9f23af8b-b18d-445f-8fa9-35b9e0ed3bef",
+    "step": 3,
+    "NOME": "sara",
+    "ultima_atualizacao": "2025-07-10 19:55:43",
+    "CONTATO": "editora",
+    "PROBLEMA_RELATADO": "vsl"
+}

@@ -1,0 +1,20 @@
+{
+    "NOME": "teste123",
+    "CONTATO": "123123123",
+    "ENDERE\u00c7O": "testes",
+    "PROBLEMA_RELATADO": "teste",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-05-30 10:10:59",
+    "criado_em": 1748599859,
+    "atualizado_em": 1748600642,
+    "session_id": "ws_1748599857124_35xvx7ykf",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-05-30 10:24:02",
+    "id_trello": "68398742fe58dca89825f60b",
+    "status_trello": "PRONTO PARA ENVIO"
+}

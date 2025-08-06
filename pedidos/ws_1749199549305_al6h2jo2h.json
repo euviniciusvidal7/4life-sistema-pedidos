@@ -1,0 +1,20 @@
+{
+    "NOME": "Lucia cabral",
+    "CONTATO": "912 801 399",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua da Cruz, n\u00ba 22\n\ud83c\udfd8\ufe0f Ribeira Grande \u2014 S\u00e3o Miguel, A\u00e7ores\n\ud83d\udcee 9600-112 Ribeira Grande",
+    "PROBLEMA_RELATADO": "Rugas na testa nos olhos",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-06 08:45:50",
+    "criado_em": 1749199550,
+    "atualizado_em": 1749202982,
+    "session_id": "ws_1749199549305_al6h2jo2h",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-06 09:43:02",
+    "id_trello": "6842b82698482200e57b4f12",
+    "status_trello": "PRONTO PARA ENVIO"
+}

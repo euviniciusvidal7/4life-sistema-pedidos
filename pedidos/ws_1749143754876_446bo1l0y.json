@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1749143754876_446bo1l0y",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-05 17:15:55",
+    "criado_em": 1749143755,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-05 17:20:00",
+    "NOME": "maria helena testa de quazar",
+    "CONTATO": "+55 teste",
+    "PROBLEMA_RELATADO": "rugas"
+}

@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1752871622909_0opharhni",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-18 20:47:06",
+    "criado_em": 1752871626,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-07-18 20:48:17",
+    "NOME": "Eliana",
+    "CONTATO": "939061850",
+    "PROBLEMA_RELATADO": "As rugas"
+}

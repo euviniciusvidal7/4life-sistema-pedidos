@@ -1,0 +1,20 @@
+{
+    "NOME": "Rosa ",
+    "CONTATO": "916 032 631",
+    "ENDERE\u00c7O": ".\n",
+    "PROBLEMA_RELATADO": "Pre\u00e7o",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-12 15:37:38",
+    "criado_em": 1752334658,
+    "atualizado_em": 1752336803,
+    "session_id": "ws_1752334660607_9lsmvs1nt",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-12 16:13:23",
+    "id_trello": "687289a2dd25929645f1d020",
+    "status_trello": "PRONTO PARA ENVIO"
+}

@@ -1,0 +1,20 @@
+{
+    "NOME": "Rosa Duarte",
+    "CONTATO": "969 251 138",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua Principal, n\u00ba 53\n\ud83d\udcee 7400-604 Tramaga",
+    "PROBLEMA_RELATADO": "Ol\u00e1 Doutor j\u00e1 tenho 72 anos e j\u00e1 tenho muitas rugas e manchas",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-08 21:37:22",
+    "criado_em": 1749418642,
+    "atualizado_em": 1749467918,
+    "session_id": "ws_1749418627845_gpfljys0l",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-09 11:18:38",
+    "id_trello": "6846c30f676a51d71f940a92",
+    "status_trello": "PRONTO PARA ENVIO"
+}

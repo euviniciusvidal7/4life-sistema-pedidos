@@ -1,0 +1,23 @@
+{
+    "NOME": "Alda Maria Borges Francisco",
+    "ENDERE\u00c7O": "Rua Santo Ant\u00f3nio 22 Quinta do Cola\u00e7o Almalagu\u00eas Coimbra , 3040-485",
+    "CONTATO": "916070191",
+    "PROBLEMA_RELATADO": "Rugas pesco\u00e7o fl\u00e1cido",
+    "PERGUNTAS_FEITAS": [
+        "Um m\u00eas",
+        "Ok"
+    ],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Um m\u00eas",
+            "resposta": "Tratamento mensal com colag\u00e9nio marinho 150% mais potente + vitamina C. Resultados vis\u00edveis em 7-14 dias. Sem contra-indica\u00e7\u00f5es.",
+            "timestamp": "2025-05-28T08:11:17.329Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "28\/05\/2025",
+    "versao": "v1-main",
+    "Rec": false,
+    "timestamp": "2025-05-28 08:15:16",
+    "criado_em": 1748420116
+}

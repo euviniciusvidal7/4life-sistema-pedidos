@@ -1,0 +1,23 @@
+{
+    "NOME": "Maria Cabrita ",
+    "ENDERE\u00c7O": "Rua Fernando Lopes graca 23 R\/C, 7080-023 Vendas Novas ",
+    "CONTATO": "967907279",
+    "PROBLEMA_RELATADO": "Tenho 59 anos, e \u00e0s rugas come\u00e7am a aparecer e a pele com os poros mais dilatados",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "1 m\u00eas",
+            "resposta": "\u00d3tima escolha! O RenovaGold \u00e9 a solu\u00e7\u00e3o mais eficaz para rejuvenescer a pele em apenas 1 m\u00eas (74,98\u20ac). Com **col\u00e1geno marinho 150% mais potente**, associado \u00e0 **Vitamina C** para m\u00e1xima absor\u00e7\u00e3o, promove resultados vis\u00edveis em 7-14 dias: rugas e p\u00e9s de galinha reduzidos, pele mais firme e el\u00e1stica!  \n\n\u2728 **Sem contraindica\u00e7\u00f5es**, entrega em 2-3 dias em sua casa, pagamento na rece\u00e7\u00e3o e garantia de satisfa\u00e7\u00e3o!  \nPronto(a) para come\u00e7ar? \ud83d\ude80  \n\n**> Confirma?**",
+            "timestamp": "2025-07-14T22:07:38.456Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "14\/07\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-07-14 22:11:35",
+    "criado_em": 1752531095
+}

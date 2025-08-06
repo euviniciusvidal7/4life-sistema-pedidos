@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752010625970_8rglpnlfi",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-08 21:37:10",
+    "criado_em": 1752010630,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "2159b257-3476-4638-b6f4-0f301a863393",
+    "step": 3,
+    "NOME": "Lia",
+    "ultima_atualizacao": "2025-07-08 21:38:49",
+    "CONTATO": "912376503",
+    "PROBLEMA_RELATADO": "Pele seca, fl\u00e1cida.."
+}

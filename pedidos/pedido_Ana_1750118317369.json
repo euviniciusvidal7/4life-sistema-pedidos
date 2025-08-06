@@ -1,0 +1,17 @@
+{
+    "NOME": "Ana",
+    "ENDERE\u00c7O": "Rua Brito Capelo 773 6 Dto, 4450-076 Matosinhos",
+    "CONTATO": "914366974",
+    "PROBLEMA_RELATADO": "Rugas",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "17\/06\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-06-16 23:58:37",
+    "criado_em": 1750118317
+}

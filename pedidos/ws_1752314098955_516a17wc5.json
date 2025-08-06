@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752314098955_516a17wc5",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-12 09:55:02",
+    "criado_em": 1752314102,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "3c850b61-84ec-48bc-b8f2-5a77b71f9533",
+    "step": 3,
+    "NOME": "Fatima",
+    "ultima_atualizacao": "2025-07-12 09:56:40",
+    "CONTATO": "966206473",
+    "PROBLEMA_RELATADO": "Qual o pre\u00e7o do collagenio"
+}

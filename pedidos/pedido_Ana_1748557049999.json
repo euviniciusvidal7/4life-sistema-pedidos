@@ -1,0 +1,20 @@
+{
+    "NOME": "Ana",
+    "ENDERE\u00c7O": "Conde Moser,141- 1and., 2765-410, Estoril ",
+    "CONTATO": "919225103",
+    "PROBLEMA_RELATADO": "Pele seca,sem firmeza",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "1 m\u00eas. Mas se eu gostar como fa\u00e7o para pedir novamente o produto?",
+            "resposta": "Se gostar do resultado (e acreditamos que vai gostar!), \u00e9 muito f\u00e1cil continuar o tratamento: basta entrar em contacto connosco atrav\u00e9s do site oficial ou do e-mail de suporte (que receber\u00e1 junto com a confirma\u00e7\u00e3o da sua encomenda). Temos sempre stock dispon\u00edvel e garantimos entrega r\u00e1pida.  \n\nE aten\u00e7\u00e3o: se optar pelo tratamento de 1 m\u00eas agora, ter\u00e1 **15% de desconto** na pr\u00f3xima encomenda se escolher os pacotes de 2 ou 3 meses (ideal para resultados ainda mais duradouros!). O pagamento \u00e9 feito apenas na entrega, sem preocupa\u00e7\u00f5es.  \n\nQuer come\u00e7amos j\u00e1 com o tratamento de 1 m\u00eas? \ud83d\ude80",
+            "timestamp": "2025-05-29T22:09:33.516Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "29\/05\/2025",
+    "versao": "v2-main-n8n",
+    "Rec": false,
+    "timestamp": "2025-05-29 22:17:31",
+    "criado_em": 1748557051
+}

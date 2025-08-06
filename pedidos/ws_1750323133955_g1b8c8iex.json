@@ -1,0 +1,17 @@
+{
+    "session_id": "ws_1750323133955_g1b8c8iex",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-19 08:52:16",
+    "criado_em": 1750323136,
+    "Rec": true,
+    "etapa_atual": "coleta_problema",
+    "marcos_progresso": [
+        "nome",
+        "telefone"
+    ],
+    "step": 2,
+    "ultima_atualizacao": "2025-06-19 08:54:19",
+    "NOME": "Amelia Oliveira",
+    "CONTATO": "919252361"
+}

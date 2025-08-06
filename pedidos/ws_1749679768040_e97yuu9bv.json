@@ -1,0 +1,20 @@
+{
+    "NOME": "Maria Laurinda Silva Arantes",
+    "CONTATO": "932 605 214",
+    "ENDERE\u00c7O": "\ud83d\udccd Rua Nova de Santa Cruz, n\u00ba 1, Esquerdo\n\ud83d\udcee Braga, 4710-409",
+    "PROBLEMA_RELATADO": "",
+    "tratamento": "Personalizado - 80.00\u20ac",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-11 22:09:31",
+    "criado_em": 1749679771,
+    "atualizado_em": 1749722405,
+    "session_id": "ws_1749679768040_e97yuu9bv",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-12 10:00:05",
+    "id_trello": "684aa52559f4b472f83bc8d0",
+    "status_trello": "PRONTO PARA ENVIO"
+}

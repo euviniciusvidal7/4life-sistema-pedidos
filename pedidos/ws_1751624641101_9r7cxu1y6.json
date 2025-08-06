@@ -1,0 +1,20 @@
+{
+    "NOME": "Isabel pereira",
+    "CONTATO": "914 055 597",
+    "ENDERE\u00c7O": "Rua do Agro de Moinhos, n\u00ba 168, Bloco C, 5.4\n\ud83d\udcee Vila Nova de Gaia, 4430-004",
+    "PROBLEMA_RELATADO": "Mais a pele fl\u00e1cida",
+    "tratamento": "Personalizado - 79.98\u20ac",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-04 10:24:03",
+    "criado_em": 1751624643,
+    "atualizado_em": 1751625881,
+    "session_id": "ws_1751624641101_9r7cxu1y6",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-04 10:44:41",
+    "id_trello": "6867b099cd55e3b637b26a54",
+    "status_trello": "PRONTO PARA ENVIO"
+}

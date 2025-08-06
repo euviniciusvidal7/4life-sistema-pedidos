@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1749107895220_0udupg3w7",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-05 07:18:17",
+    "criado_em": 1749107897,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "audio_introdutorio",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-05 07:28:17",
+    "NOME": "Assun\u00e7\u00e3o",
+    "CONTATO": "930439555",
+    "PROBLEMA_RELATADO": "Bigode chin\u00eas testa  linhas do lado da boa"
+}

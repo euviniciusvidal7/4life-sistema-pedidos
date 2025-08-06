@@ -1,0 +1,20 @@
+{
+    "session_id": "ws_1751210126037_ppt0hkgby",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-06-29 15:15:27",
+    "criado_em": 1751210127,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "step": 3,
+    "ultima_atualizacao": "2025-06-29 15:16:01",
+    "NOME": "Bruno celso",
+    "CONTATO": "21 996656272",
+    "PROBLEMA_RELATADO": "as regas e a flacidez"
+}

@@ -1,0 +1,20 @@
+{
+    "NOME": "Celeste",
+    "CONTATO": "O pre\u00e7o",
+    "ENDERE\u00c7O": "oihh",
+    "PROBLEMA_RELATADO": "O pre\u00e7o por favor",
+    "tratamento": "Personalizado - 87.00\u20ac",
+    "origem": "facebook",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-06-03 18:11:03",
+    "criado_em": 1748974263,
+    "atualizado_em": 1748985919,
+    "session_id": "ws_1748974260227_y9d1u9mvn",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-06-03 21:25:19",
+    "id_trello": "683f683f3d5faea7fbfe8a70",
+    "status_trello": "PRONTO PARA ENVIO"
+}

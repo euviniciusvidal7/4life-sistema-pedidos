@@ -1,0 +1,20 @@
+{
+    "NOME": "maria helena testuda",
+    "ENDERE\u00c7O": "rua 123, 1234-123",
+    "CONTATO": ".",
+    "PROBLEMA_RELATADO": "rugas e bigode chines",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "funciona mesmo ?",
+            "resposta": "Claro que sim! **RenovaGold** \u00e9 um tratamento com col\u00e1geno marinho, 150% mais potente que o comum, aliado \u00e0 Vitamina C para uma absor\u00e7\u00e3o eficaz. Resultados vis\u00edveis j\u00e1 entre **7 a 14 dias**, com redu\u00e7\u00e3o de rugas, firmeza e elasticidade renovada \u2014 sem contraindica\u00e7\u00f5es e com **garantia de satisfa\u00e7\u00e3o**. Os pacotes s\u00e3o flex\u00edveis: 1, 2 ou 3 meses com pre\u00e7os desde **74,98\u20ac**.  \n  \nQuer iniciar o seu tratamento hoje? Se sim, diga-me quantos meses pretende! \ud83d\ude0a",
+            "timestamp": "2025-05-28T16:05:03.422Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "28\/05\/2025",
+    "versao": "v1-main",
+    "Rec": false,
+    "timestamp": "2025-05-28 16:15:43",
+    "criado_em": 1748448943
+}

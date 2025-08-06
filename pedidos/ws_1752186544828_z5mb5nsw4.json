@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752186544828_z5mb5nsw4",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-10 22:29:09",
+    "criado_em": 1752186549,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "8ef61913-6089-4c78-9e82-ab551c05a297",
+    "step": 3,
+    "NOME": "Beatriz",
+    "ultima_atualizacao": "2025-07-10 22:31:33",
+    "CONTATO": "Queria falar por aqui pode ser",
+    "PROBLEMA_RELATADO": "Bigodes chineses e algumas rugas"
+}

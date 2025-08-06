@@ -1,0 +1,23 @@
+{
+    "NOME": "Olga Maria Antunes Martins ",
+    "ENDERE\u00c7O": "R: Padre Domingos Concei\u00e7\u00e3o Pires Moura Lote 2 N 4 2 Esq. 2 Esq., 6005-084 Alcains",
+    "CONTATO": "926 436 954",
+    "PROBLEMA_RELATADO": "Os p\u00e9s  de galinha o  bu\u00e7o  muito  marcado e se eu sorrir fico com muitas rugas",
+    "PERGUNTAS_FEITAS": [],
+    "CONVERSA_IA": [
+        {
+            "pergunta": "Prefiro  o 1 m\u00eas",
+            "resposta": "Excelente escolha! O tratamento de **1 m\u00eas (74,98\u20ac)** \u00e9 ideal para come\u00e7ar a revitaliza\u00e7\u00e3o da sua pele j\u00e1 nas primeiras semanas. Com **col\u00e1geno marinho 150% mais potente** e **Vitamina C** para absor\u00e7\u00e3o m\u00e1xima, voc\u00ea notar\u00e1 redu\u00e7\u00e3o de rugas e firmeza j\u00e1 entre 7-14 dias. O resultado melhora com o tempo, mas garantimos satisfa\u00e7\u00e3o desde o primeiro m\u00eas.  \n\nO pagamento \u00e9 feito apenas na entrega, e o produto chega a sua casa em 2-3 dias. Deseja prosseguir com o pedido? \ud83d\udce6\u2728",
+            "timestamp": "2025-07-15T08:38:17.005Z"
+        }
+    ],
+    "PACOTE_ESCOLHIDO": "1 m\u00eas de tratamento - RENOVAGOLD (74,98\u20ac)",
+    "DATA": "15\/07\/2025",
+    "versao": "v2-main-n8n",
+    "DESCONTO_APLICADO": false,
+    "VALOR_FINAL": 74.98,
+    "MODO_FALLBACK": false,
+    "Rec": false,
+    "timestamp": "2025-07-15 08:39:56",
+    "criado_em": 1752568796
+}

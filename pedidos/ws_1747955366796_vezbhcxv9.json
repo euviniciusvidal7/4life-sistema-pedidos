@@ -1,0 +1,22 @@
+{
+    "session_id": "ws_1747955366796_vezbhcxv9",
+    "origem": "whatsapp",
+    "versao": "v1-main",
+    "timestamp": "2025-05-22 23:09:23",
+    "criado_em": 1747955363,
+    "Rec": true,
+    "etapa_atual": "endereco",
+    "NOME": "Desculpe mais s\u00f3 posso fazer o pedido  dia 8",
+    "ultima_atualizacao": "2025-05-22 23:21:50",
+    "CONTATO": "Este e meu WhatsApp  936813713",
+    "PROBLEMA_RELATADO": "Meu n\u00famero privado e 962803604",
+    "marcos_progresso": [
+        "audio_introdutorio",
+        "entrega",
+        "perguntas"
+    ],
+    "PERGUNTAS_FEITAS": [
+        "Ok obrigado"
+    ],
+    "CONVERSA_IA": []
+}

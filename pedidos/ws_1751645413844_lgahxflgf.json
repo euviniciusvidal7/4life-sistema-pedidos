@@ -1,0 +1,20 @@
+{
+    "NOME": "Ilda Pinto",
+    "CONTATO": "915 982 209",
+    "ENDERE\u00c7O": "IREI PREENCHER OS DADOS AMANH\u00c3",
+    "PROBLEMA_RELATADO": "As linhas \u00e0 volta da boca, a chamada linhas ou rugas de marionete",
+    "tratamento": "1 M\u00eas",
+    "origem": "whatsapp",
+    "Rec": false,
+    "processado": true,
+    "status": "processado",
+    "timestamp": "2025-07-04 16:10:17",
+    "criado_em": 1751645417,
+    "atualizado_em": 1751654553,
+    "session_id": "ws_1751645413844_lgahxflgf",
+    "recuperado_por": 3,
+    "processado_recuperacao": true,
+    "data_processamento_recuperacao": "2025-07-04 18:42:33",
+    "id_trello": "686820996e72d32e1e772c64",
+    "status_trello": "PRONTO PARA ENVIO"
+}

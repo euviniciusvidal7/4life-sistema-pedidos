@@ -1,0 +1,21 @@
+{
+    "session_id": "ws_1752532375839_xqq51om8f",
+    "origem": "whatsapp",
+    "versao": "v2-n8n",
+    "timestamp": "2025-07-14 22:33:01",
+    "criado_em": 1752532381,
+    "Rec": true,
+    "etapa_atual": "apresentacao",
+    "marcos_progresso": [
+        "nome",
+        "telefone",
+        "problema",
+        "entrega"
+    ],
+    "id_cliente": "3c10e099-e6cc-495b-b5e2-ac80440fa72c",
+    "step": 3,
+    "NOME": "Estou enterecada no medicamento",
+    "ultima_atualizacao": "2025-07-14 22:35:07",
+    "CONTATO": "910818721",
+    "PROBLEMA_RELATADO": "Tudo"
+}
